@@ -17,10 +17,25 @@
       repo: '',
       loadSidebar: true,
       homepage: 'homepage.md',
-      subMaxLevel: 2
+      subMaxLevel: 2,
+      alias: {
+        '/.*/_sidebar.md': '/_sidebar.md'
+      },
+      plugins: [
+        function(hook) {
+          hook.doneEach(function() {
+            // Re-run Tablesort on the new table
+            const table = document.querySelector('.comparison-table');
+            if (table) {
+              new Tablesort(table);
+            }
+          });
+        }
+      ]
     }
   </script>
   <!-- Docsify v4 -->
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+  <script src="https://cdn.jsdelivr.net/npm/tablesort@5.3.0/dist/tablesort.min.js"></script>
 </body>
 </html>

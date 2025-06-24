@@ -31,26 +31,15 @@ This table provides a high-level overview of the competitive landscape, comparin
       <td><strong>$3.30</strong></td>
     </tr>
     <tr>
-      <td><strong>Ballerina Farm</strong></td>
-      <td>Farmer Protein Powder</td>
-      <td>Whey Concentrate</td>
-      <td>A2 Dairy, Honey (sweetened)</td>
-      <td>Homesteading / Family / Natural Lifestyle</td>
-      <td>$65.00 (25)</td>
-      <td>$55.25</td>
-      <td>$2.60</td>
-      <td>$2.21</td>
-    </tr>
-    <tr>
-      <td><strong>Equip</strong></td>
-      <td>Prime Protein</td>
-      <td>Beef Isolate</td>
-      <td>Just beef protein, minimal ingredients</td>
-      <td>Paleo / Clean Eating / Athletes</td>
-      <td>$59.99 (30)</td>
-      <td>$54.39</td>
-      <td>$2.00</td>
-      <td>$1.81</td>
+      <td><strong>Huel</strong></td>
+      <td>Black Edition</td>
+      <td>Pea Protein</td>
+      <td>High protein (40g), low carb, vitamins/minerals</td>
+      <td>Fitness / Performance / Macro-focused</td>
+      <td>$90.00 (17)</td>
+      <td>$81.00</td>
+      <td>$5.29</td>
+      <td>$4.76</td>
     </tr>
     <tr>
       <td><strong>Momentum Shake</strong></td>
@@ -64,17 +53,6 @@ This table provides a high-level overview of the competitive landscape, comparin
       <td><em>N/A</em></td>
     </tr>
     <tr>
-      <td><strong>Kate Farms</strong></td>
-      <td>Nutrition Shake (RTD)</td>
-      <td>Pea Protein</td>
-      <td>Prebiotics, Phytonutrients, Ready-to-Drink</td>
-      <td>Medical / Sensitive Stomachs / Vegans</td>
-      <td>$54.00 (12)</td>
-      <td>$48.60</td>
-      <td>$4.50</td>
-      <td>$4.05</td>
-    </tr>
-    <tr>
       <td><strong>Ka'Chava</strong></td>
       <td>The Whole Body Meal</td>
       <td>Plant-based Blend</td>
@@ -86,15 +64,15 @@ This table provides a high-level overview of the competitive landscape, comparin
       <td>$4.00</td>
     </tr>
     <tr>
-      <td><strong>Ritual</strong></td>
-      <td>Essential Protein 18+</td>
+      <td><strong>Kate Farms</strong></td>
+      <td>Nutrition Shake (RTD)</td>
       <td>Pea Protein</td>
-      <td>Choline, transparently sourced</td>
-      <td>Millennial/Gen Z Women, Aesthetically-driven</td>
-      <td>$40.00 (16)</td>
-      <td>$40.00</td>
-      <td>$2.50</td>
-      <td>$2.50</td>
+      <td>Prebiotics, Phytonutrients, Ready-to-Drink</td>
+      <td>Medical / Sensitive Stomachs / Vegans</td>
+      <td>$54.00 (12)</td>
+      <td>$48.60</td>
+      <td>$4.50</td>
+      <td>$4.05</td>
     </tr>
     <tr>
       <td><strong>OWYN</strong></td>
@@ -106,28 +84,6 @@ This table provides a high-level overview of the competitive landscape, comparin
       <td>$38.39</td>
       <td>$4.00</td>
       <td>$3.20</td>
-    </tr>
-    <tr>
-      <td><strong>Huel</strong></td>
-      <td>Black Edition</td>
-      <td>Pea Protein</td>
-      <td>High protein (40g), low carb, vitamins/minerals</td>
-      <td>Fitness / Performance / Macro-focused</td>
-      <td>$90.00 (17)</td>
-      <td>$81.00</td>
-      <td>$5.29</td>
-      <td>$4.76</td>
-    </tr>
-    <tr>
-      <td><strong>Aloha</strong></td>
-      <td>Protein Powder</td>
-      <td>Plant-based Blend</td>
-      <td>Simple, organic ingredients, focus on taste</td>
-      <td>Organic / Vegan / Family-friendly</td>
-      <td>$32.99 (15)</td>
-      <td>$29.69</td>
-      <td>$2.20</td>
-      <td>$1.98</td>
     </tr>
     <tr>
       <td><strong>Lineage Provisions</strong></td>
@@ -151,6 +107,50 @@ This table provides a high-level overview of the competitive landscape, comparin
       <td>$2.63</td>
       <td>$2.11</td>
     </tr>
+    <tr>
+      <td><strong>Ballerina Farm</strong></td>
+      <td>Farmer Protein Powder</td>
+      <td>Whey Concentrate</td>
+      <td>A2 Dairy, Honey (sweetened)</td>
+      <td>Homesteading / Family / Natural Lifestyle</td>
+      <td>$65.00 (25)</td>
+      <td>$55.25</td>
+      <td>$2.60</td>
+      <td>$2.21</td>
+    </tr>
+    <tr>
+      <td><strong>Ritual</strong></td>
+      <td>Essential Protein 18+</td>
+      <td>Pea Protein</td>
+      <td>Choline, transparently sourced</td>
+      <td>Millennial/Gen Z Women, Aesthetically-driven</td>
+      <td>$40.00 (16)</td>
+      <td>$40.00</td>
+      <td>$2.50</td>
+      <td>$2.50</td>
+    </tr>
+    <tr>
+      <td><strong>Aloha</strong></td>
+      <td>Protein Powder</td>
+      <td>Plant-based Blend</td>
+      <td>Simple, organic ingredients, focus on taste</td>
+      <td>Organic / Vegan / Family-friendly</td>
+      <td>$32.99 (15)</td>
+      <td>$29.69</td>
+      <td>$2.20</td>
+      <td>$1.98</td>
+    </tr>
+    <tr>
+      <td><strong>Equip</strong></td>
+      <td>Prime Protein</td>
+      <td>Beef Isolate</td>
+      <td>Just beef protein, minimal ingredients</td>
+      <td>Paleo / Clean Eating / Athletes</td>
+      <td>$59.99 (30)</td>
+      <td>$54.39</td>
+      <td>$2.00</td>
+      <td>$1.81</td>
+    </tr>
   </tbody>
 </table>
 
@@ -170,7 +170,7 @@ Based on the comparison, here is where Nimble Daily can build a powerful narrati
 *   **Observation:** Competitors are mostly one-trick ponies. Equip is just protein. Ritual is protein + choline. Collagen is sold separately. Ka'Chava and Huel are meal replacements, a different category. **Nimble Daily is the only product that strategically combines high-quality protein, creatine, collagen, and essential minerals in one scoop.**
 *   **Opportunity:** **Hammer the "efficiency and efficacy" message.** Your target consumer values her time and money. Frame Nimble Daily as the most intelligent, efficient, and cost-effective solution.
     *   **Messaging Angle:** "Stop buying three different products. Your strength, joints, and bones are all connected. Your nutrition should be too."
-    *   **Value Angle:** Show the cost of buying separate beef protein, collagen, and creatine, proving that Nimble is not just more convenient but a smarter investment.
+    *   **Value Angle:** Show the cost of buying separate beef protein, collagen peptides, and creatine, proving that Nimble is not just more convenient but a smarter investment.
 
 ### 3. **Creatine for Women is a Blue Ocean**
 

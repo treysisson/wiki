@@ -55,3 +55,43 @@ We are a partner in her health journey, not a drill sergeant. The tone should fe
 - **DON'T:** Use language that implies she is "broken" or "needs fixing." Focus on preservation, strength, and enhancement, not deficits.
 
 **Example:** "...designed to support lean muscle, protect joints and cartilage, and strengthen bones in one daily step, so you stay strong, resilient and nimble."
+
+---
+
+## Word Bank: On-Brand vs. Off-Brand
+
+Use this list as a quick reference to keep our language consistent and powerful.
+
+| On-Brand (Use These) | Off-Brand (Avoid These) |
+| :--- | :--- |
+| Resilient, Capable, Strong | Magic, Miracle, Instant |
+| Precise, Scientific, Clinical | Girl-boss, #Slay, Queen |
+| Foundational, Essential | Effortless, Quick-fix |
+| Protect, Support, Strengthen | Cheat code, Secret, Hack |
+| Efficacy, Evidence-based | "Look younger," "Turn back time" |
+| Investment, Consistency | "Guilt-free," "Skinny" |
+| Optimize, Enhance, Preserve | "Fix," "Cure," "Problem" |
+
+---
+
+## From Generic to Nimble: Before & After
+
+Here's how to translate typical marketing copy into the Nimble tone of voice.
+
+### Example 1: Website Headline
+
+*   **Before:** "The Ultimate Protein Powder for Women!"
+*   **After:** "Foundational nutrition for the woman who isn't slowing down."
+    *   *Why it works: It shifts from generic hype ("Ultimate") to a specific, empowering idea ("Foundational nutrition") that respects the customer's identity and drive.*
+
+### Example 2: Product Description
+
+*   **Before:** "Our new shake helps you lose weight and feel great! It tastes amazing and is packed with everything you need to get the body you've always wanted."
+*   **After:** "A single, daily scoop designed to support the body's core systems of strength and mobility. We've combined grass-fed beef protein isolate with creatine and collagen to help preserve lean muscle and protect connective tissue. It's a direct, effective tool for maintaining your physical capabilities."
+    *   *Why it works: It replaces vague promises ("feel great," "amazing taste") with direct, scientific, and benefit-oriented language ("preserve lean muscle," "protect connective tissue"). It sounds authoritative and honest, not like a sales pitch.*
+
+### Example 3: Social Media Post
+
+*   **Before:** "Don't let aging get you down! ✨ Our new formula is the secret to staying young and beautiful. #antiaging #foreveryoung"
+*   **After:** "Muscle loss begins accelerating after 30. That's a scientific reality. It's also something you can actively address. Our 4-in-1 formula is a strategic tool to support your strength and resilience, year after year. #nimblenutrition #strengththroughscience"
+    *   *Why it works: It's direct, honest, and educational. It replaces the patronizing and cliché anti-aging sentiment with a fact-based, empowering call to action. It positions the brand as a credible authority.*
