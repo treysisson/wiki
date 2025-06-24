@@ -1,13 +1,13 @@
 <!-- docs/_sidebar.md -->
 
-*   **Content Strategy**
-    *   [Marketing Hooks](hooks.md)
-    *   [Target Consumer](consumer.md)
-
 *   **Brand & Product**
     *   [Company Mission](company.md)
     *   [Product Details](product.md)
     *   [Tone of Voice](toneofvoice.md)
+
+*   **Content Strategy**
+    *   [Marketing Hooks](hooks.md)
+    *   [Target Consumer](consumer.md)
 
 *   **Strategy**
     *   [Competitive Analysis](competitor_comp.md)
