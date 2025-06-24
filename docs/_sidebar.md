@@ -13,9 +13,6 @@
 
 *   **Strategy**
     *   [Competitive Analysis](competitor_comp.md)
-    *   [Pricing](pricing.md)
-    *   [Competitor List](competitors.md)
 
 *   **Reference**
-    *   [Source Inspiration (nimbledaily)](nimbledaily.md)
-    *   [Scraped Competitor Data](scraped_competitors.md) 
+    *   [Source Inspiration (nimbledaily)](nimbledaily.md) 

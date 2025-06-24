@@ -31,3 +31,17 @@
 -   **To Invest in Her Future Self:** She wants to make a smart, proactive choice for her long-term health. She is looking for a "health 401k"—a simple, daily deposit that will pay dividends in her mobility and independence for decades to come.
 -   **To Find a Simple, Trusted Solution:** She craves a "one-and-done" solution that is clean, effective, and backed by science. She wants to be able to trust a brand, integrate its product effortlessly into her routine, and get on with her life.
 -   **To Stay in the Game:** More than anything, she wants to continue being the active, capable person she has always been—leading her teams, enjoying her hobbies, and being fully present for her family without being held back by physical limitations.
+
+## Additional Consumer Avatars
+
+### Avatar 2: "The Second-Act Athlete" (Chloe, 54)
+
+-   **Profile:** Chloe recently discovered a passion for competitive tennis. After years focused on her career and family, she's dedicating her free time to a sport she loves. She's fit, driven, and loves to compete.
+-   **Pain Point:** She's deeply frustrated by her recovery time. While her skills are improving, she finds a tough match can leave her with sore joints and muscle fatigue for days, limiting her practice time. She feels her body is the only thing holding her back from reaching the next level.
+-   **Core Desire:** She wants a nutritional tool that gives her a competitive edge, specifically by accelerating recovery and protecting her joints from the high impact of the sport. She wants to feel as resilient as her 25-year-old opponents.
+
+### Avatar 3: "The Proactive Planner" (Jenna, 42)
+
+-   **Profile:** Jenna is a successful financial planner who lives by the motto "plan for the future." She's not yet feeling the significant effects of aging but is highly aware of what's coming. She reads about health, tracks her biomarkers, and sees her body as a system to be optimized.
+-   **Pain Point:** She is annoyed by the inefficiency of the supplement market. She has a cabinet full of different bottles—collagen for skin, protein for workouts, multivitamins—and hates the clutter, cost, and complexity. She sees this as a "dumb" system.
+-   **Core Desire:** She is searching for an elegant, all-in-one solution that consolidates her core nutritional needs into a single, high-quality, evidence-based product. For her, Nimble is an intelligent investment in her long-term health portfolio.
