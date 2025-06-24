@@ -136,7 +136,7 @@ This table provides a high-level overview of the competitive landscape, comparin
       <td>$2.63</td>
       <td>$2.11</td>
       <td><strong>20%</strong></td>
-      <td></td>
+      <td>21</td>
     </tr>
     <tr>
         <td><a href="https://ballerinafarm.com/products/farmer-protein?selling_plan=690731581810" target="_blank"><strong>Ballerina Farm</strong></a></td>
