@@ -4,20 +4,155 @@
 
 This table provides a high-level overview of the competitive landscape, comparing key attributes of each competitor against Nimble Daily.
 
-| **Brand** | **Product Focus** | **Primary Protein Source** | **Key Differentiators / Add-ins** | **Target Audience** | **OTP Price** | **Sub Price** | **OTP/Serving** | **Sub/Serving** |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Nimble Daily** | **Women's 4-in-1** | **Swedish Beef Isolate** | **Creatine, Collagen I & III, MCT, Bioavailable Minerals** | **The Resilient Leader (Women 38-55+)** | **$74.99 (15)** | **$98.99 (30)** | **$5.00** | **$3.30** |
-| **Ballerina Farm** | Farmer Protein Powder | Whey Concentrate | A2 Dairy, Honey (sweetened) | Homesteading / Family / Natural Lifestyle | $65.00 (25) | *N/A* | $2.60 | *N/A* |
-| **Equip** | Prime Protein | Beef Isolate | Just beef protein, minimal ingredients | Paleo / Clean Eating / Athletes | $59.99 (30) | *N/A* | $2.00 | *N/A* |
-| **Momentum Shake** | Meal Replacement | Plant-based Blend | "All-in-one" greens, fruits, probiotics | Busy Professionals / General Health | $79.00 (15) | *N/A* | $5.27 | *N/A* |
-| **Kate Farms** | Nutrition Shake (RTD) | Pea Protein | Prebiotics, Phytonutrients, Ready-to-Drink | Medical / Sensitive Stomachs / Vegans | $54.00 (12) | *N/A* | $4.50 | *N/A* |
-| **Ka'Chava** | The Whole Body Meal | Plant-based Blend | 85+ Superfoods, Adaptogens, Greens | General Wellness / All-in-one seekers | $69.95 (15) | *N/A* | $4.66 | *N/A* |
-| **Ritual** | Essential Protein 18+ | Pea Protein | Choline, transparently sourced | Millennial/Gen Z Women, Aesthetically-driven | $40.00 (16) | *N/A* | $2.50 | *N/A* |
-| **OWYN** | Protein Shakes (RTD) | Plant-based Blend | Greens, Omega-3s, Allergen-friendly | Plant-based Athletes / On-the-go | $47.99 (12) | *N/A* | $4.00 | *N/A* |
-| **Huel** | Black Edition | Pea Protein | High protein (40g), low carb, vitamins/minerals | Fitness / Performance / Macro-focused | $90.00 (17) | *N/A* | $5.29 | *N/A* |
-| **Aloha** | Protein Powder | Plant-based Blend | Simple, organic ingredients, focus on taste | Organic / Vegan / Family-friendly | $32.99 (15) | *N/A* | $2.20 | *N/A* |
-| **Lineage Provisions** | Animal Based Complete | Beef & Egg White Protein | Organ meat blend, fruit powders | Carnivore / Ancestral eating / Hardcore Paleo | $69.00 (20) | *N/A* | $3.45 | *N/A* |
-| **Noble Origins** | Beef Isolate + Organs | Beef Isolate | Organ blend, colostrum, "nose-to-tail" | Biohackers / Ancestral health / Men | $79.00 (30) | *N/A* | $2.63 | *N/A* |
+<table class="comparison-table">
+  <thead>
+    <tr>
+      <th><strong>Brand</strong></th>
+      <th><strong>Product Focus</strong></th>
+      <th><strong>Primary Protein Source</strong></th>
+      <th><strong>Key Differentiators / Add-ins</strong></th>
+      <th><strong>Target Audience</strong></th>
+      <th><strong>OTP Price</strong></th>
+      <th><strong>Sub Price</strong></th>
+      <th><strong>OTP/Serving</strong></th>
+      <th><strong>Sub/Serving</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr style="background-color: #FFFF99;">
+      <td><strong>Nimble Daily</strong></td>
+      <td><strong>Women's 4-in-1</strong></td>
+      <td><strong>Swedish Beef Isolate</strong></td>
+      <td><strong>Creatine, Collagen I & III, MCT, Bioavailable Minerals</strong></td>
+      <td><strong>The Resilient Leader (Women 38-55+)</strong></td>
+      <td><strong>$74.99 (15)</strong></td>
+      <td><strong>$98.99 (30)</strong></td>
+      <td><strong>$5.00</strong></td>
+      <td><strong>$3.30</strong></td>
+    </tr>
+    <tr>
+      <td><strong>Ballerina Farm</strong></td>
+      <td>Farmer Protein Powder</td>
+      <td>Whey Concentrate</td>
+      <td>A2 Dairy, Honey (sweetened)</td>
+      <td>Homesteading / Family / Natural Lifestyle</td>
+      <td>$65.00 (25)</td>
+      <td>$55.25</td>
+      <td>$2.60</td>
+      <td>$2.21</td>
+    </tr>
+    <tr>
+      <td><strong>Equip</strong></td>
+      <td>Prime Protein</td>
+      <td>Beef Isolate</td>
+      <td>Just beef protein, minimal ingredients</td>
+      <td>Paleo / Clean Eating / Athletes</td>
+      <td>$59.99 (30)</td>
+      <td>$54.39</td>
+      <td>$2.00</td>
+      <td>$1.81</td>
+    </tr>
+    <tr>
+      <td><strong>Momentum Shake</strong></td>
+      <td>Meal Replacement</td>
+      <td>Plant-based Blend</td>
+      <td>"All-in-one" greens, fruits, probiotics</td>
+      <td>Busy Professionals / General Health</td>
+      <td>$79.00 (15)</td>
+      <td><em>N/A</em></td>
+      <td>$5.27</td>
+      <td><em>N/A</em></td>
+    </tr>
+    <tr>
+      <td><strong>Kate Farms</strong></td>
+      <td>Nutrition Shake (RTD)</td>
+      <td>Pea Protein</td>
+      <td>Prebiotics, Phytonutrients, Ready-to-Drink</td>
+      <td>Medical / Sensitive Stomachs / Vegans</td>
+      <td>$54.00 (12)</td>
+      <td>$48.60</td>
+      <td>$4.50</td>
+      <td>$4.05</td>
+    </tr>
+    <tr>
+      <td><strong>Ka'Chava</strong></td>
+      <td>The Whole Body Meal</td>
+      <td>Plant-based Blend</td>
+      <td>85+ Superfoods, Adaptogens, Greens</td>
+      <td>General Wellness / All-in-one seekers</td>
+      <td>$69.95 (15)</td>
+      <td>$59.95</td>
+      <td>$4.66</td>
+      <td>$4.00</td>
+    </tr>
+    <tr>
+      <td><strong>Ritual</strong></td>
+      <td>Essential Protein 18+</td>
+      <td>Pea Protein</td>
+      <td>Choline, transparently sourced</td>
+      <td>Millennial/Gen Z Women, Aesthetically-driven</td>
+      <td>$40.00 (16)</td>
+      <td>$40.00</td>
+      <td>$2.50</td>
+      <td>$2.50</td>
+    </tr>
+    <tr>
+      <td><strong>OWYN</strong></td>
+      <td>Protein Shakes (RTD)</td>
+      <td>Plant-based Blend</td>
+      <td>Greens, Omega-3s, Allergen-friendly</td>
+      <td>Plant-based Athletes / On-the-go</td>
+      <td>$47.99 (12)</td>
+      <td>$38.39</td>
+      <td>$4.00</td>
+      <td>$3.20</td>
+    </tr>
+    <tr>
+      <td><strong>Huel</strong></td>
+      <td>Black Edition</td>
+      <td>Pea Protein</td>
+      <td>High protein (40g), low carb, vitamins/minerals</td>
+      <td>Fitness / Performance / Macro-focused</td>
+      <td>$90.00 (17)</td>
+      <td>$81.00</td>
+      <td>$5.29</td>
+      <td>$4.76</td>
+    </tr>
+    <tr>
+      <td><strong>Aloha</strong></td>
+      <td>Protein Powder</td>
+      <td>Plant-based Blend</td>
+      <td>Simple, organic ingredients, focus on taste</td>
+      <td>Organic / Vegan / Family-friendly</td>
+      <td>$32.99 (15)</td>
+      <td>$29.69</td>
+      <td>$2.20</td>
+      <td>$1.98</td>
+    </tr>
+    <tr>
+      <td><strong>Lineage Provisions</strong></td>
+      <td>Animal Based Complete</td>
+      <td>Beef & Egg White Protein</td>
+      <td>Organ meat blend, fruit powders</td>
+      <td>Carnivore / Ancestral eating / Hardcore Paleo</td>
+      <td>$69.00 (20)</td>
+      <td><em>N/A</em></td>
+      <td>$3.45</td>
+      <td><em>N/A</em></td>
+    </tr>
+    <tr>
+      <td><strong>Noble Origins</strong></td>
+      <td>Beef Isolate + Organs</td>
+      <td>Beef Isolate</td>
+      <td>Organ blend, colostrum, "nose-to-tail"</td>
+      <td>Biohackers / Ancestral health / Men</td>
+      <td>$79.00 (30)</td>
+      <td>$63.20</td>
+      <td>$2.63</td>
+      <td>$2.11</td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 

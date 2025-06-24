@@ -45,3 +45,27 @@
 -   **Profile:** Jenna is a successful financial planner who lives by the motto "plan for the future." She's not yet feeling the significant effects of aging but is highly aware of what's coming. She reads about health, tracks her biomarkers, and sees her body as a system to be optimized.
 -   **Pain Point:** She is annoyed by the inefficiency of the supplement market. She has a cabinet full of different bottles—collagen for skin, protein for workouts, multivitamins—and hates the clutter, cost, and complexity. She sees this as a "dumb" system.
 -   **Core Desire:** She is searching for an elegant, all-in-one solution that consolidates her core nutritional needs into a single, high-quality, evidence-based product. For her, Nimble is an intelligent investment in her long-term health portfolio.
+
+### Avatar 4: "The Post-Menopausal Powerhouse" (Susan, 58)
+
+-   **Profile:** Susan is a vibrant, active woman who has recently retired from teaching. She's post-menopausal and is fiercely committed to maintaining her independence and active lifestyle, which includes hiking and playing with her grandchildren.
+-   **Pain Point:** She has read the research and is concerned about the accelerated rate of bone density and muscle loss after menopause. She feels that generic supplements don't address the specific, heightened needs of her age group.
+-   **Core Desire:** To find a targeted nutritional strategy that directly combats the effects of hormonal changes on her muscles and bones. She wants to feel confident that she is doing everything possible to stay strong and prevent age-related frailty.
+
+### Avatar 5: "The Rural Professional" (Maria, 45)
+
+-   **Profile:** Maria is a veterinarian with her own large-animal practice in a rural area. Her job is physically demanding, requiring strength and endurance daily.
+-   **Pain Point:** Her schedule is unpredictable and she often relies on convenience foods that leave her feeling drained. She doesn't have access to smoothie bars or high-end health food stores and needs a solution that is simple, shelf-stable, and can be prepared in seconds between appointments.
+-   **Core Desire:** A no-fuss, nutritionally complete product that she can trust to support her physically demanding career. She needs something that is as hardworking and reliable as she is.
+
+### Avatar 6: "The Pre-Habilitation Strategist" (Emily, 39)
+
+-   **Profile:** Emily is a project manager and a meticulous planner. Watching her own mother struggle with osteoporosis, she is determined to take a different path. She is in her late 30s and is focused on "pre-habilitation"—building a strong foundation of muscle and bone *before* she enters perimenopause.
+-   **Pain Point:** She feels her goal is preventative and long-term, and most products are marketed for solving an immediate problem. She is looking for a brand that understands and supports her proactive, forward-thinking approach to health.
+-   **Core Desire:** To make a daily "deposit" into her future health. She wants a product that acts as a nutritional scaffolding, ensuring she enters her 40s and 50s from a position of strength and resilience.
+
+### Avatar 7: "The Time-Crunched Commuter" (Priya, 48)
+
+-   **Profile:** Priya is a lawyer with a 90-minute commute each way to the city. Her days are long, stressful, and leave very little time for complicated meal prep or extensive self-care routines.
+-   **Pain Point:** She often skips meals or grabs unhealthy options, leading to energy crashes and a feeling of being constantly run-down. She knows her nutrition is suffering but feels she lacks the time to fix it.
+-   **Core Desire:** The ultimate "health hack." She needs the most efficient, potent, and quick nutritional solution available. Nimble Daily, for her, is a way to reclaim control over her health in the very limited time she has.
