@@ -5,11 +5,11 @@
     *   [Product Detail Page](pdp.md)
     *   [Marketing Hooks](hooks.md)
 
-*   **Brand Identity**
+*   **Brand & Product**
     *   [Company Mission](company.md)
     *   [Product Details](product.md)
-    *   [Tone of Voice](toneofvoice.md)
     *   [Target Consumer](consumer.md)
+    *   [Tone of Voice](toneofvoice.md)
 
 *   **Strategy**
     *   [Competitive Analysis](competitor_comp.md)

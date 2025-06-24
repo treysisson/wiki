@@ -15,10 +15,12 @@
 **SHORT DESCRIPTION:**
 A breakthrough daily nutritional powder designed for women. One simple scoop delivers targeted support for lean muscle, joint resilience, bone density, and energetic recovery. Clean, science-backed, and uncompromisingly effective.
 
-**PRICE:** $XX.XX (or subscription pricing)
+**Choose Your Plan:**
+- **One-Time Purchase (15 Servings):** $74.99
+- **Subscribe & Save (15 Servings):** $58.49 *(Save 22%)*
+- **Subscribe & Save (30 Servings):** $98.99 *(Best Value - Save 34%)*
 
 **CALL TO ACTION (Button):** [ADD TO CART]
-**SUBSCRIPTION OPTION (Button):** [SUBSCRIBE & SAVE 20%]
 
 **(Trust badges below CTA: "Gluten-Free," "Dairy-Free," "No Added Sugar," "Made in USA")**
 
