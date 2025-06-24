@@ -35,7 +35,7 @@ This table provides a high-level overview of the competitive landscape, comparin
       <td><strong>26</strong></td>
     </tr>
     <tr>
-      <td><strong>Momentum Shake</strong></td>
+      <td><a href="https://www.momentumshake.com/" target="_blank"><strong>Momentum Shake</strong></a></td>
       <td>Meal Replacement</td>
       <td>Plant-based Blend</td>
       <td>"All-in-one" greens, fruits, probiotics</td>
@@ -48,7 +48,7 @@ This table provides a high-level overview of the competitive landscape, comparin
       <td>20</td>
     </tr>
     <tr>
-      <td><strong>Kate Farms</strong></td>
+      <td><a href="https://shop.katefarms.com/products/nutrition-shake" target="_blank"><strong>Kate Farms</strong></a></td>
       <td>Nutrition Shake (RTD)</td>
       <td>Pea Protein</td>
       <td>Prebiotics, Phytonutrients, Ready-to-Drink</td>
@@ -61,7 +61,7 @@ This table provides a high-level overview of the competitive landscape, comparin
       <td>16</td>
     </tr>
     <tr>
-      <td><strong>Equip</strong></td>
+      <td><a href="https://www.equipfoods.com/products/prime-protein-beef-isolate-protein" target="_blank"><strong>Equip</strong></a></td>
       <td>Prime Protein</td>
       <td>Beef Isolate</td>
       <td>Just beef protein, minimal ingredients</td>
@@ -74,7 +74,7 @@ This table provides a high-level overview of the competitive landscape, comparin
       <td>21</td>
     </tr>
     <tr>
-      <td><strong>Ballerina Farm</strong></td>
+      <td><a href="https://ballerinafarm.com/products/farmer-protein?selling_plan=690731581810" target="_blank"><strong>Ballerina Farm</strong></a></td>
       <td>Farmer Protein</td>
       <td>Grass-fed Whey</td>
       <td>Colostrum, minimal ingredients, farm-sourced</td>
@@ -87,7 +87,7 @@ This table provides a high-level overview of the competitive landscape, comparin
       <td>24</td>
     </tr>
     <tr>
-      <td><strong>Made of Life</strong></td>
+      <td><a href="https://madeof.life/collections/shop/products/chocolate-nz-grass-fed-whey-protein-isolate" target="_blank"><strong>Made of Life</strong></a></td>
       <td>NZ Whey Isolate</td>
       <td>Whey Isolate</td>
       <td>NZ Grass-Fed, highly filtered, digestion-friendly</td>
