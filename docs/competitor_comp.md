@@ -93,6 +93,18 @@ This table provides a high-level overview of the competitive landscape, comparin
       <td><strong>20%</strong></td>
     </tr>
     <tr>
+      <td><strong>Ballerina Farm</strong></td>
+      <td>Farmer Protein Powder</td>
+      <td>Whey Concentrate</td>
+      <td>Colostrum, Collagen, Hemp Protein</td>
+      <td>Homesteading / Family / Natural Lifestyle</td>
+      <td>$67.00 (25)</td>
+      <td>$60.00</td>
+      <td>$2.68</td>
+      <td>$2.40</td>
+      <td><strong>10%</strong></td>
+    </tr>
+    <tr>
       <td><strong>Noble Origins</strong></td>
       <td>Beef Isolate + Organs</td>
       <td>Beef Isolate</td>
@@ -117,18 +129,6 @@ This table provides a high-level overview of the competitive landscape, comparin
       <td><strong>5%</strong></td>
     </tr>
     <tr>
-      <td><strong>Ballerina Farm</strong></td>
-      <td>Farmer Protein Powder</td>
-      <td>Whey Concentrate</td>
-      <td>A2 Dairy, Honey (sweetened)</td>
-      <td>Homesteading / Family / Natural Lifestyle</td>
-      <td>$65.00 (25)</td>
-      <td>$55.25</td>
-      <td>$2.60</td>
-      <td>$2.21</td>
-      <td><strong>15%</strong></td>
-    </tr>
-    <tr>
       <td><strong>Ritual</strong></td>
       <td>Essential Protein 18+</td>
       <td>Pea Protein</td>
@@ -151,6 +151,18 @@ This table provides a high-level overview of the competitive landscape, comparin
       <td>$2.20</td>
       <td>$1.98</td>
       <td><strong>10%</strong></td>
+    </tr>
+    <tr>
+      <td><strong>Made of Life</strong></td>
+      <td>NZ Whey Isolate</td>
+      <td>Whey Isolate</td>
+      <td>NZ Grass-Fed, highly filtered, digestion-friendly</td>
+      <td>Health-conscious, sensitive stomachs</td>
+      <td>$65.00 (30)</td>
+      <td>$55.25</td>
+      <td>$2.17</td>
+      <td>$1.84</td>
+      <td><strong>15%</strong></td>
     </tr>
     <tr>
       <td><strong>Equip</strong></td>
