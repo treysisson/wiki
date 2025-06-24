@@ -1,4 +1,4 @@
-# Nimble Nutrition: Company Mission & Ethos
+# Nimble Daily: Company Mission & Ethos
 
 ## Our Mission
 
