@@ -6,7 +6,34 @@
 
 ---
 
-## II. Nutrition Information
+## II. Functional Benefits & Key Ingredients
+
+This formula is designed to deliver targeted support for the systems that govern strength, mobility, and resilience.
+
+### Muscle Health, Energy & Repair
+Designed to support muscle strength, recovery, and lean body composition:
+
+- **Grass-Fed Beef Protein Isolate:** Delivers the essential amino acids crucial for muscle repair, maintenance, and growth.
+- **Creatine Monohydrate:** Improves strength, power output, and the development of lean muscle mass.
+- **MCT Oil:** Supports metabolic energy production and enhances the body's ability to absorb key nutrients.
+- **Magnesium Bisglycinate:** A highly absorbable form of magnesium that aids in proper muscle function, contraction, and relaxation.
+- **Vitamins B6 (P5P) & B12 (Methylcobalamin):** Active forms of B vitamins that play a key role in energy metabolism and protein synthesis.
+- **Zinc Bisglycinate:** Supports protein synthesis and is crucial for post-exercise muscle recovery.
+
+### Joint & Tendon Mobility & Resilience
+Formulated to protect and support connective tissues:
+
+- **Type I and Type III Collagen:** These specific collagen types are vital for maintaining the health and integrity of skin, tendons, and joints, promoting mobility and resilience.
+
+### Bone Support for Strength & Structure
+Includes key nutrients for maintaining bone density:
+
+- **Essential Minerals:** A blend of bioavailable minerals works synergistically to support the underlying structure and strength of your bones.
+- **Potassium Chloride:** An essential electrolyte that helps maintain fluid balance, which is critical for muscle and nerve function.
+
+---
+
+## III. Nutrition Information
 
 ### Nutrition Fact Panel
 
@@ -40,7 +67,7 @@
 
 ---
 
-## III. Full Ingredient Breakdown
+## IV. Full Ingredient Breakdown
 
 The formula is fully transparent. Every ingredient is listed with its precise dosage.
 
@@ -65,3 +92,23 @@ The formula is fully transparent. Every ingredient is listed with its precise do
 | Copper Bisglycinate Chelate (Albion®) | 0.1 |
 | L-5-Methyltetrahydrofolate (L-5-MTHF) | 0.08 |
 | Vitamin K2 1000ppm (MK7 Menaquinone-7) (Gnosis) | 0.06 |
+
+---
+
+## V. Quality & Purity Standards
+
+Our formula is defined as much by what's in it as what's *not* in it.
+
+- **Free From:**
+    - Gluten-Free
+    - Dairy-Free
+    - Soy-Free
+    - Non-GMO
+    - No Fillers Added
+    - No Sugar Added
+    - No Artificial Flavors
+    - No "Natural Flavors"
+
+- **Certifications & Testing:**
+    - **Third-Party Tested:** Every batch is rigorously tested for heavy metals and other contaminants to ensure safety and purity.
+    - **Made in the USA:** Produced in a GMP-certified facility, adhering to the highest standards of quality and manufacturing excellence.
