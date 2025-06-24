@@ -1,14 +1,14 @@
 <!-- docs/_sidebar.md -->
 
-*   **Content Strategy**
+*   **Website**
     *   [Homepage](homepage.md)
     *   [Product Detail Page](pdp.md)
     *   [Marketing Hooks](hooks.md)
+    *   [Target Consumer](consumer.md)
 
 *   **Brand & Product**
     *   [Company Mission](company.md)
     *   [Product Details](product.md)
-    *   [Target Consumer](consumer.md)
     *   [Tone of Voice](toneofvoice.md)
 
 *   **Strategy**

@@ -69,3 +69,21 @@
 -   **Profile:** Priya is a lawyer with a 90-minute commute each way to the city. Her days are long, stressful, and leave very little time for complicated meal prep or extensive self-care routines.
 -   **Pain Point:** She often skips meals or grabs unhealthy options, leading to energy crashes and a feeling of being constantly run-down. She knows her nutrition is suffering but feels she lacks the time to fix it.
 -   **Core Desire:** The ultimate "health hack." She needs the most efficient, potent, and quick nutritional solution available. Nimble Daily, for her, is a way to reclaim control over her health in the very limited time she has.
+
+### Avatar 8: "The Skeptical Scientist" (Dr. Helen, 51)
+
+-   **Profile:** Helen is a PhD-level researcher at a university. She is data-driven, analytical, and deeply skeptical of the entire wellness industry, which she views as largely pseudoscientific.
+-   **Pain Point:** She is experiencing joint pain and a noticeable decline in energy, but she finds most product marketing to be full of unsubstantiated claims and "magical" ingredients. She doesn't trust brands that aren't transparent about their formulation and sourcing.
+-   **Core Desire:** She is looking for a product that speaks her language: evidence, clinical dosages, and transparent, high-quality sourcing. She wants a brand that respects her intelligence by leading with science, not hype.
+
+### Avatar 9: "The On-the-Go Executive" (Rebecca, 44)
+
+-   **Profile:** Rebecca is a sales executive who travels for work three weeks out of the month. She lives out of a suitcase and hotels.
+-   **Pain Point:** Maintaining any health routine on the road is a constant struggle. She can't rely on hotel gyms or healthy restaurant options. She often feels her health and fitness levels slipping during long business trips, which affects her confidence and energy.
+-   **Core Desire:** A portable, simple, and reliable nutritional anchor. She needs a product she can easily pack and mix in a hotel room to ensure she's getting foundational nutrition, no matter what city she's in.
+
+### Avatar 10: "The Ethical Consumer" (Aisha, 40)
+
+-   **Profile:** Aisha is a graphic designer and a highly conscious consumer. She researches every major purchase to understand its environmental and ethical impact.
+-   **Pain Point:** She wants to take a protein and collagen supplement but is troubled by the sourcing of many products, particularly those from factory-farmed animals. She finds a lack of transparency in the industry and doesn't want to compromise her values for her health goals.
+-   **Core Desire:** A brand that aligns with her values. She is seeking a product with impeccable sourcing credentials (like grass-fed, humanely raised) and a transparent supply chain. For her, the "how" and "where" are just as important as the "what."
