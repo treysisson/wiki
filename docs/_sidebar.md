@@ -1,9 +1,5 @@
 <!-- docs/_sidebar.md -->
 
-*   **Website**
-    *   [Homepage](homepage.md)
-    *   [Product Detail Page](pdp.md)
-
 *   **Content Strategy**
     *   [Marketing Hooks](hooks.md)
     *   [Target Consumer](consumer.md)
@@ -15,6 +11,10 @@
 
 *   **Strategy**
     *   [Competitive Analysis](competitor_comp.md)
+
+*   **Website**
+    *   [Homepage](homepage.md)
+    *   [Product Detail Page](pdp.md)
 
 *   **Reference**
     *   [Source Inspiration (nimbledaily)](nimbledaily.md) 
