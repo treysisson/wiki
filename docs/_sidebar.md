@@ -3,6 +3,8 @@
 *   **Website**
     *   [Homepage](homepage.md)
     *   [Product Detail Page](pdp.md)
+
+*   **Content Strategy**
     *   [Marketing Hooks](hooks.md)
     *   [Target Consumer](consumer.md)
 
