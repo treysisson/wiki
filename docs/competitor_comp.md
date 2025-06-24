@@ -16,6 +16,7 @@ This table provides a high-level overview of the competitive landscape, comparin
       <th><strong>Sub Price</strong></th>
       <th><strong>OTP/Serving</strong></th>
       <th><strong>Sub/Serving</strong></th>
+      <th><strong>Sub Discount %</strong></th>
     </tr>
   </thead>
   <tbody>
@@ -29,6 +30,19 @@ This table provides a high-level overview of the competitive landscape, comparin
       <td><strong>$98.99 (30)</strong></td>
       <td><strong>$5.00</strong></td>
       <td><strong>$3.30</strong></td>
+      <td><strong>34%</strong></td>
+    </tr>
+    <tr>
+      <td><strong>Momentum Shake</strong></td>
+      <td>Meal Replacement</td>
+      <td>Plant-based Blend</td>
+      <td>"All-in-one" greens, fruits, probiotics</td>
+      <td>Busy Professionals / General Health</td>
+      <td>$80.00 (15)</td>
+      <td>$75.00</td>
+      <td>$5.33</td>
+      <td>$5.00</td>
+      <td><strong>6%</strong></td>
     </tr>
     <tr>
       <td><strong>Huel</strong></td>
@@ -40,17 +54,7 @@ This table provides a high-level overview of the competitive landscape, comparin
       <td>$81.00</td>
       <td>$5.29</td>
       <td>$4.76</td>
-    </tr>
-    <tr>
-      <td><strong>Momentum Shake</strong></td>
-      <td>Meal Replacement</td>
-      <td>Plant-based Blend</td>
-      <td>"All-in-one" greens, fruits, probiotics</td>
-      <td>Busy Professionals / General Health</td>
-      <td>$79.00 (15)</td>
-      <td><em>N/A</em></td>
-      <td>$5.27</td>
-      <td><em>N/A</em></td>
+      <td><strong>10%</strong></td>
     </tr>
     <tr>
       <td><strong>Ka'Chava</strong></td>
@@ -62,6 +66,7 @@ This table provides a high-level overview of the competitive landscape, comparin
       <td>$59.95</td>
       <td>$4.66</td>
       <td>$4.00</td>
+      <td><strong>14%</strong></td>
     </tr>
     <tr>
       <td><strong>Kate Farms</strong></td>
@@ -73,6 +78,7 @@ This table provides a high-level overview of the competitive landscape, comparin
       <td>$48.60</td>
       <td>$4.50</td>
       <td>$4.05</td>
+      <td><strong>10%</strong></td>
     </tr>
     <tr>
       <td><strong>OWYN</strong></td>
@@ -84,17 +90,7 @@ This table provides a high-level overview of the competitive landscape, comparin
       <td>$38.39</td>
       <td>$4.00</td>
       <td>$3.20</td>
-    </tr>
-    <tr>
-      <td><strong>Lineage Provisions</strong></td>
-      <td>Animal Based Complete</td>
-      <td>Beef & Egg White Protein</td>
-      <td>Organ meat blend, fruit powders</td>
-      <td>Carnivore / Ancestral eating / Hardcore Paleo</td>
-      <td>$69.00 (20)</td>
-      <td><em>N/A</em></td>
-      <td>$3.45</td>
-      <td><em>N/A</em></td>
+      <td><strong>20%</strong></td>
     </tr>
     <tr>
       <td><strong>Noble Origins</strong></td>
@@ -106,6 +102,19 @@ This table provides a high-level overview of the competitive landscape, comparin
       <td>$63.20</td>
       <td>$2.63</td>
       <td>$2.11</td>
+      <td><strong>20%</strong></td>
+    </tr>
+    <tr>
+      <td><strong>Lineage Provisions</strong></td>
+      <td>Animal Based Complete</td>
+      <td>Beef & Egg White Protein</td>
+      <td>Organ meat blend, fruit powders</td>
+      <td>Carnivore / Ancestral eating / Hardcore Paleo</td>
+      <td>$79.00 (30)</td>
+      <td>$75.00</td>
+      <td>$2.63</td>
+      <td>$2.50</td>
+      <td><strong>5%</strong></td>
     </tr>
     <tr>
       <td><strong>Ballerina Farm</strong></td>
@@ -117,6 +126,7 @@ This table provides a high-level overview of the competitive landscape, comparin
       <td>$55.25</td>
       <td>$2.60</td>
       <td>$2.21</td>
+      <td><strong>15%</strong></td>
     </tr>
     <tr>
       <td><strong>Ritual</strong></td>
@@ -128,6 +138,7 @@ This table provides a high-level overview of the competitive landscape, comparin
       <td>$40.00</td>
       <td>$2.50</td>
       <td>$2.50</td>
+      <td><strong>0%</strong></td>
     </tr>
     <tr>
       <td><strong>Aloha</strong></td>
@@ -139,6 +150,7 @@ This table provides a high-level overview of the competitive landscape, comparin
       <td>$29.69</td>
       <td>$2.20</td>
       <td>$1.98</td>
+      <td><strong>10%</strong></td>
     </tr>
     <tr>
       <td><strong>Equip</strong></td>
@@ -150,6 +162,7 @@ This table provides a high-level overview of the competitive landscape, comparin
       <td>$54.39</td>
       <td>$2.00</td>
       <td>$1.81</td>
+      <td><strong>9%</strong></td>
     </tr>
   </tbody>
 </table>
