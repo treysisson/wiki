@@ -4,20 +4,20 @@
 
 This table provides a high-level overview of the competitive landscape, comparing key attributes of each competitor against Nimble Daily.
 
-| **Brand** | **Product Focus** | **Primary Protein Source** | **Key Differentiators / Add-ins** | **Target Audience** | **Price (OTP)** | **Price Per Serving (approx.)** |
+| **Brand** | **Product Focus** | **Primary Protein Source** | **Key Differentiators / Add-ins** | **Target Audience** | **Price/Serving (One-Time)** | **Price/Serving (Subscription)** |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Nimble Daily** | **Women's 4-in-1 (Muscle, Joint, Bone, Energy)** | **Swedish Beef Isolate** | **Creatine, Collagen I & III, MCT, Bioavailable Minerals** | **The Resilient Leader (Women 38-55+)** | **$74.99 (15 serv)** | **$5.00** |
-| **Ballerina Farm** | Farmer Protein Powder | Whey Concentrate | A2 Dairy, Honey (sweetened) | Homesteading / Family / Natural Lifestyle | $65.00 (25 serv) | $2.60 |
-| **Equip** | Prime Protein | Beef Isolate | Just beef protein, minimal ingredients | Paleo / Clean Eating / Athletes | $59.99 (30 serv) | $2.00 |
-| **Momentum Shake** | Meal Replacement | Plant-based Blend (Pea, Hemp) | "All-in-one" greens, fruits, probiotics | Busy Professionals / General Health | $79.00 (15 meals) | $5.27 |
-| **Kate Farms** | Nutrition Shake (RTD) | Pea Protein | Prebiotics, Phytonutrients, Ready-to-Drink | Medical / Sensitive Stomachs / Vegans | $54.00 (12 shakes) | $4.50 |
-| **Ka'Chava** | The Whole Body Meal | Plant-based Blend | 85+ Superfoods, Adaptogens, Greens | General Wellness / All-in-one nutrition seekers | $69.95 (15 meals) | $4.66 |
-| **Ritual** | Essential Protein Daily Shake 18+ | Pea Protein | Choline, transparently sourced, focus on "building block" needs | Millennial/Gen Z Women, Aesthetically-driven | $40.00 (16 serv) | $2.50 |
-| **OWYN** | Protein Shakes (RTD) | Plant-based Blend (Pea, Pumpkin) | Greens, Omega-3s, Allergen-friendly, Ready-to-Drink | Plant-based Athletes / On-the-go / Allergen-conscious | $47.99 (12 shakes) | $4.00 |
-| **Huel** | Black Edition | Pea Protein | High protein (40g), low carb, vitamins/minerals | Fitness / Performance / Macro-focused individuals | $90.00 (17 meals) | $5.29 |
-| **Aloha** | Protein Powder | Plant-based Blend (Pea, Brown Rice) | Simple, organic ingredients, focus on taste | Organic / Vegan / Family-friendly | $32.99 (15 serv) | $2.20 |
-| **Lineage Provisions** | Animal Based Complete | Beef & Egg White Protein | Organ meat blend (liver, heart), fruit powders | Carnivore / Ancestral eating / Hardcore Paleo | $69.00 (20 serv) | $3.45 |
-| **Noble Origins** | Beef Isolate + Organs | Beef Isolate | Organ blend, colostrum, focus on "nose-to-tail" | Biohackers / Ancestral health / Performance-focused men | $79.00 (30 serv) | $2.63 |
+| **Nimble Daily** | **Women's 4-in-1 (Muscle, Joint, Bone, Energy)** | **Swedish Beef Isolate** | **Creatine, Collagen I & III, MCT, Bioavailable Minerals** | **The Resilient Leader (Women 38-55+)** | **$5.00** | **$3.30 (Best Value)** |
+| **Ballerina Farm** | Farmer Protein Powder | Whey Concentrate | A2 Dairy, Honey (sweetened) | Homesteading / Family / Natural Lifestyle | $2.60 | *N/A* |
+| **Equip** | Prime Protein | Beef Isolate | Just beef protein, minimal ingredients | Paleo / Clean Eating / Athletes | $2.00 | *N/A* |
+| **Momentum Shake** | Meal Replacement | Plant-based Blend (Pea, Hemp) | "All-in-one" greens, fruits, probiotics | Busy Professionals / General Health | $5.27 | *N/A* |
+| **Kate Farms** | Nutrition Shake (RTD) | Pea Protein | Prebiotics, Phytonutrients, Ready-to-Drink | Medical / Sensitive Stomachs / Vegans | $4.50 | *N/A* |
+| **Ka'Chava** | The Whole Body Meal | Plant-based Blend | 85+ Superfoods, Adaptogens, Greens | General Wellness / All-in-one nutrition seekers | $4.66 | *N/A* |
+| **Ritual** | Essential Protein Daily Shake 18+ | Pea Protein | Choline, transparently sourced, focus on "building block" needs | Millennial/Gen Z Women, Aesthetically-driven | $2.50 | *N/A* |
+| **OWYN** | Protein Shakes (RTD) | Plant-based Blend (Pea, Pumpkin) | Greens, Omega-3s, Allergen-friendly, Ready-to-Drink | Plant-based Athletes / On-the-go / Allergen-conscious | $4.00 | *N/A* |
+| **Huel** | Black Edition | Pea Protein | High protein (40g), low carb, vitamins/minerals | Fitness / Performance / Macro-focused individuals | $5.29 | *N/A* |
+| **Aloha** | Protein Powder | Plant-based Blend (Pea, Brown Rice) | Simple, organic ingredients, focus on taste | Organic / Vegan / Family-friendly | $2.20 | *N/A* |
+| **Lineage Provisions** | Animal Based Complete | Beef & Egg White Protein | Organ meat blend (liver, heart), fruit powders | Carnivore / Ancestral eating / Hardcore Paleo | $3.45 | *N/A* |
+| **Noble Origins** | Beef Isolate + Organs | Beef Isolate | Organ blend, colostrum, focus on "nose-to-tail" | Biohackers / Ancestral health / Performance-focused men | $2.63 | *N/A* |
 
 ---
 
