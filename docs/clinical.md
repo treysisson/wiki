@@ -33,7 +33,6 @@ Nimble Daily's formulation is supported by robust clinical evidence from peer-re
 - **Study Design**: 2-year randomized, double-blind, placebo-controlled trial
 - **Participants**: 237 postmenopausal women (mean age 59) with osteopenia
 - **Duration**: 2 years with resistance training
-- **Published Study**: [PLoS One. 2015;10(4):e0125971](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0125971)
 
 **Key Results:**
 - ✅ **Bone Geometry**: Significantly maintained bone bending strength properties
@@ -106,6 +105,7 @@ Nimble Daily's formulation is supported by robust clinical evidence from peer-re
 - **Participants**: 440 postmenopausal women with osteopenia
 - **Duration**: 2-4 years
 - **Published**: [PLoS Medicine 2008](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.0050196)
+- **Note**: This study used vitamin K1 (5mg daily), not K2
 
 **Key Findings:**
 - ✅ **Fracture Reduction**: 55% fewer clinical fractures (9 vs 20, p=0.04)
@@ -277,7 +277,7 @@ The clinical evidence strongly supports Nimble Daily's positioning as a science-
 
 ---
 
-*This clinical evidence summary is based on peer-reviewed studies and clinical trials registered on ClinicalTrials.gov. Individual results may vary. Consult your healthcare provider before starting any new supplement regimen.*
+*This clinical evidence summary is based on peer-reviewed studies and clinical trials registered on ClinicalTrials.gov. While we strive for accuracy in all citations and links, please verify specific publication details through PubMed database searches. Individual results may vary. Consult your healthcare provider before starting any new supplement regimen.*
 
 **Last Updated**: July 2025  
 **Sources**: [ClinicalTrials.gov](https://clinicaltrials.gov), [PubMed](https://pubmed.ncbi.nlm.nih.gov), peer-reviewed journals
