@@ -24,3 +24,29 @@ We are committed to evidence-based nutrition. We counter misinformation and mark
 
 ### 5. Designed for Women
 Our product was born from a clear need: most supplements and protein powders don't fully address the unique ways a woman's body changes with time. We are committed to filling that gap with thoughtful, targeted, and powerful nutritional solutions designed specifically for her.
+
+---
+
+## Competitive Intelligence
+
+### PDP Competitor Analysis
+Our comprehensive analysis of 8 major competitors in the protein powder space reveals key opportunities for Nimble Daily's positioning:
+
+**Key Differentiators Identified:**
+- **Highest protein content**: 26g vs 20-24g average
+- **Only protein with creatine**: 3g clinical dose (unique in market)
+- **Women-specific formulation**: Addresses unique physiological needs
+- **4-in-1 comprehensive formula**: Protein + creatine + collagen + nutrients
+- **Transparent dosing**: Full ingredient amounts listed (rare in category)
+
+**Market Positioning Strategy:**
+Unlike single-purpose competitors (Equip's simple beef protein) or general audience products (Ka'Chava's 85+ superfoods), Nimble Daily occupies the unique position of targeted women's nutrition with performance benefits.
+
+**Competitive Advantages vs. Major Players:**
+- **vs. Equip Foods**: 4-in-1 comprehensive formula vs. single ingredient
+- **vs. Ka'Chava**: Targeted women's nutrition vs. general superfood blend  
+- **vs. Huel**: Supplement positioning vs. meal replacement
+- **vs. Noble Origins**: Women-specific vs. general audience
+- **vs. OWYN**: Performance-focused with creatine vs. allergen-free focus
+
+[Full analysis available in PDP Competitor Analysis document]

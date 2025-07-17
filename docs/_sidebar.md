@@ -14,6 +14,7 @@
 
 *   **Website**
     *   [Homepage](homepage.md)
+    *   [About](about.md)
     *   [Product Detail Page](pdp.md)
     *   [PDP Competitor Analysis](pdp_competitor_analysis.md)
 
