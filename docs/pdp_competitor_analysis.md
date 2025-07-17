@@ -19,12 +19,21 @@ This document provides a comprehensive analysis of competitor product detail pag
 ### Competitive Research Methodology
 **Comprehensive analysis conducted through detailed review of competitor PDPs, pricing structures, messaging strategies, and positioning approaches.**
 
+### Visual Analysis: PDP Screenshots
+**Successfully captured distinct sections of each competitor's product detail page using automated Playwright screenshots. Each competitor has 4 unique images showing different content areas:**
+
 ---
 
 ## Detailed Competitor Analysis
 
 ### 1. Equip Foods - Prime Protein Beef Isolate
 **[Visit PDP](https://www.equipfoods.com/products/prime-protein-beef-isolate-protein)**
+
+**PDP Screenshots:**
+- ![Hero Section](screenshots/sections/equipfoods_hero.png)
+- ![Benefits Section](screenshots/sections/equipfoods_benefits.png)
+- ![Ingredients Section](screenshots/sections/equipfoods_ingredients.png)
+- ![Reviews Section](screenshots/sections/equipfoods_reviews.png)
 
 **Product Positioning:**
 - 21g grass-fed beef protein with naturally occurring collagen
@@ -51,6 +60,12 @@ This document provides a comprehensive analysis of competitor product detail pag
 ### 2. Ka'Chava - Chocolate Superblend
 **[Visit PDP](https://www.kachava.com/products/shakes/chocolate)**
 
+**PDP Screenshots:**
+- ![Hero Section](screenshots/sections/kachava_hero.png)
+- ![Benefits Section](screenshots/sections/kachava_benefits.png)
+- ![Ingredients Section](screenshots/sections/kachava_ingredients.png)
+- ![Reviews Section](screenshots/sections/kachava_reviews.png)
+
 **Product Positioning:**
 - "85+ superfoods, nutrients, & plant-based ingredients"
 - Complete meal shake positioning
@@ -75,6 +90,12 @@ This document provides a comprehensive analysis of competitor product detail pag
 
 ### 3. Huel - Black Edition
 **[Visit PDP](https://huel.com/products/huel-black-edition)**
+
+**PDP Screenshots:**
+- ![Hero Section](screenshots/sections/huel_hero.png)
+- ![Benefits Section](screenshots/sections/huel_benefits.png)
+- ![Nutrition Section](screenshots/sections/huel_nutrition.png)
+- ![Reviews Section](screenshots/sections/huel_reviews.png)
 
 **Product Positioning:**
 - "40g plant-based protein + 27 vitamins & minerals"
@@ -101,6 +122,12 @@ This document provides a comprehensive analysis of competitor product detail pag
 ### 4. Noble Origins - All-in-One Protein
 **[Visit PDP](https://nobleorigins.com/)**
 
+**PDP Screenshots:**
+- ![Hero Section](screenshots/sections/nobleorigins_hero.png)
+- ![Benefits Section](screenshots/sections/nobleorigins_benefits.png)
+- ![Ingredients Section](screenshots/sections/nobleorigins_ingredients.png)
+- ![Reviews Section](screenshots/sections/nobleorigins_reviews.png)
+
 **Product Positioning:**
 - Premium "nose-to-tail nutrition" at $142 price point
 - 21g grass-fed beef protein with comprehensive organ blend
@@ -125,6 +152,12 @@ This document provides a comprehensive analysis of competitor product detail pag
 
 ### 5. OWYN - Plant-Based Protein Shakes
 **[Visit PDP](https://liveowyn.com/products/protein-shakes/?sku=8839)**
+
+**PDP Screenshots:**
+- ![Hero Section](screenshots/sections/owyn_hero.png)
+- ![Benefits Section](screenshots/sections/owyn_benefits.png)
+- ![Ingredients Section](screenshots/sections/owyn_ingredients.png)
+- ![Reviews Section](screenshots/sections/owyn_reviews.png)
 
 **Product Positioning:**
 - "Only What You Need" philosophy
@@ -151,6 +184,12 @@ This document provides a comprehensive analysis of competitor product detail pag
 ### 6. Aloha - Chocolate Protein Powder
 **[Visit PDP](https://aloha.com/products/chocolate-protein-powder)**
 
+**PDP Screenshots:**
+- ![Hero Section](screenshots/sections/aloha_hero.png)
+- ![Benefits Section](screenshots/sections/aloha_benefits.png)
+- ![Ingredients Section](screenshots/sections/aloha_ingredients.png)
+- ![Reviews Section](screenshots/sections/aloha_reviews.png)
+
 **Product Positioning:**
 - Clean, organic positioning with earth tones
 - "Real cacao, 4g sugar" health-conscious messaging
@@ -171,6 +210,12 @@ This document provides a comprehensive analysis of competitor product detail pag
 ### 7. Ritual - Essential Protein Daily Shake
 **[Visit PDP](https://ritual.com/products/essential-protein-daily-shake-18)**
 
+**PDP Screenshots:**
+- ![Hero Section](screenshots/sections/ritual_hero.png)
+- ![Benefits Section](screenshots/sections/ritual_benefits.png)
+- ![Ingredients Section](screenshots/sections/ritual_ingredients.png)
+- ![Reviews Section](screenshots/sections/ritual_reviews.png)
+
 **Product Positioning:**
 - Premium, clinical design with transparency focus
 - "Traceable ingredients" scientific approach
@@ -190,6 +235,12 @@ This document provides a comprehensive analysis of competitor product detail pag
 
 ### 8. Ballerina Farm - Farmer Protein
 **[Visit PDP](https://ballerinafarm.com/products/farmer-protein-powder-variety-pack)**
+
+**PDP Screenshots:**
+- ![Hero Section](screenshots/sections/ballerinafarm_hero.png)
+- ![Benefits Section](screenshots/sections/ballerinafarm_benefits.png)
+- ![Ingredients Section](screenshots/sections/ballerinafarm_ingredients.png)
+- ![Reviews Section](screenshots/sections/ballerinafarm_reviews.png)
 
 **Product Positioning:**
 - Rustic, authentic farm-to-table branding
