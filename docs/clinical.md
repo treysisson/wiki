@@ -184,9 +184,8 @@ While specific trials comparing beef protein to whey in women are limited, the e
 
 **Gender-Specific Protein Research:**
 - **[PMID: 30423113](https://pubmed.ncbi.nlm.nih.gov/30423113/)** - Women show greater muscle protein synthesis response to whey protein than men
-- **[PMID: 27511985](https://pubmed.ncbi.nlm.nih.gov/27511985/)** - 40g protein more effective than 20g for muscle protein synthesis in women
 
-**Research Note**: Limited direct RCT comparisons of beef vs whey protein specifically in women during 2015-2025, representing an opportunity for future research
+**Research Gap**: Limited studies on optimal protein dosing specifically in women. Most protein dosing research has been conducted in males, highlighting the need for more gender-specific research to establish optimal intake recommendations for women.
 
 ---
 
@@ -254,9 +253,11 @@ While specific trials comparing beef protein to whey in women are limited, the e
 - **Dose-response established**: 3+ g/day threshold for meaningful strength benefits in women
 
 ### Research Gaps Identified
+- **Protein Dosing in Women**: Most protein research conducted in males; need for women-specific dosing studies
 - **Beef vs Whey Protein**: Limited head-to-head comparisons in women (opportunity for future research)
 - **Zinc in Women Athletes**: Need for more targeted studies on muscle recovery and protein synthesis
 - **Magnesium Forms**: More comparative bioavailability studies needed in women
+- **Long-term Combined Supplementation**: Limited studies on multi-ingredient formulations in women
 
 ---
 
