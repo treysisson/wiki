@@ -1,4 +1,4 @@
-const { FirecrawlApp } = require('firecrawl-mcp');
+const FirecrawlApp = require('@mendable/firecrawl-js').default;
 const fs = require('fs');
 
 // Your API key
@@ -20,21 +20,30 @@ const urls = [
 
 async function scrapeCompetitors() {
     let allData = '';
-    for (const url of urls) {
+    // Test with first URL only to avoid rate limits
+    const testUrls = urls.slice(0, 1);
+    
+    for (const url of testUrls) {
         try {
             console.log(`Scraping ${url}...`);
-            const result = await app.scrape(url, {
-                pageOptions: {
-                    skipTlsVerification: true
-                }
+            const result = await app.scrapeUrl(url, {
+                formats: ['markdown', 'screenshot']
             });
-            if (result && result.data && result.data.markdown) {
-                allData += `## Scraped Content for: ${url}\n\n${result.data.markdown}\n\n---\n\n`;
+            if (result && result.data) {
+                if (result.data.markdown) {
+                    allData += `## Scraped Content for: ${url}\n\n${result.data.markdown}\n\n`;
+                }
+                if (result.data.screenshot) {
+                    allData += `## Screenshot: ${url}\n\n![Screenshot](${result.data.screenshot})\n\n`;
+                }
+                allData += `---\n\n`;
             }
         } catch (error) {
             console.error(`Error scraping ${url}:`, error);
             allData += `## FAILED to scrape: ${url}\n\n---\n\n`;
         }
+        // Add delay to avoid rate limits
+        await new Promise(resolve => setTimeout(resolve, 2000));
     }
     fs.writeFileSync('docs/scraped_competitors.md', allData);
     console.log('Scraping complete. Data saved to docs/scraped_competitors.md');
