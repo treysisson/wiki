@@ -15,6 +15,7 @@
 *   **Website**
     *   [Homepage](homepage.md)
     *   [Product Detail Page](pdp.md)
+    *   [PDP Competitor Analysis](pdp_competitor_analysis.md)
 
 *   **Reference**
     *   [Source Inspiration (nimbledaily)](nimbledaily.md) 
