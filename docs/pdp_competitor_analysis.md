@@ -41,18 +41,18 @@ Screenshots are saved in `docs/screenshots/` folder:
 **Benefits Section:**
 ![Equip Foods Benefits](screenshots/sections/equipfoods_benefits.png)
 
+**Ingredients Section:**
+![Equip Foods Ingredients](screenshots/sections/equipfoods_ingredients.png)
+
 **Reviews Section:**
 ![Equip Foods Reviews](screenshots/sections/equipfoods_reviews.png)
 
 **Key Observations:**
-- **Clean, minimal design** with focus on product image
-- **9 flavor options** prominently displayed with visual swatches
-- **Clear pricing**: $63.99 with subscription toggle
-- **Strong social proof**: 6,433 reviews with 4.9/5 rating
-- **Simple value prop**: "21g of bioavailable, complete protein"
-- **Three key ingredients** highlighted: beef, cocoa, stevia
-- **Benefits section** emphasizes digestibility and taste
-- **Review section** showcases customer testimonials prominently
+- **Hero Section**: Clean design with 9 flavor options, subscription toggle prominent
+- **Benefits Section**: Emphasizes "3 ingredients only" and digestibility
+- **Ingredients Section**: Transparent sourcing information and quality claims
+- **Reviews Section**: Strong social proof with 6,433 reviews (4.9/5 rating)
+- **Overall**: Minimal design focusing on simplicity and quality
 
 ### 2. Ka'Chava - Chocolate Superblend
 
@@ -69,39 +69,53 @@ Screenshots are saved in `docs/screenshots/` folder:
 ![Ka'Chava Testimonials](screenshots/sections/kachava_testimonials.png)
 
 **Key Observations:**
-- **Visual-heavy design** with 5 flavor variants
-- **Subscription pricing**: $69.95 → $59.95 (clear savings)
-- **"85+ superfoods"** messaging prominently featured
-- **Comprehensive certifications**: Vegan, gluten-free, non-GMO
-- **Educational approach** with ingredient transparency
-- **Free gift offer** with first order
-- **Detailed ingredients section** showcases superfood blend
-- **Customer testimonials** include photos and specific benefits
+- **Hero Section**: 5 flavor variants with visual product displays, subscription savings prominent
+- **Benefits Section**: "85+ superfoods" messaging with comprehensive nutrition claims
+- **Ingredients Section**: Detailed superfood breakdown with educational content
+- **Testimonials Section**: Customer photos with specific benefit testimonials
+- **Overall**: Educational approach emphasizing ingredient diversity and superfood benefits
 
 ### 3. Huel - Black Edition
 
 **Hero Section:**
 ![Huel Hero](screenshots/sections/huel_hero.png)
 
+**Benefits Section:**
+![Huel Benefits](screenshots/sections/huel_benefits.png)
+
+**Nutrition Section:**
+![Huel Nutrition](screenshots/sections/huel_nutrition.png)
+
+**Reviews Section:**
+![Huel Reviews](screenshots/sections/huel_reviews.png)
+
 **Key Observations:**
-- **Value-focused messaging**: "$2.65 per meal"
-- **Strong subscription model**: 20% discount highlighted
-- **Scientific credibility**: "40g protein + 27 vitamins"
-- **Complete meal positioning** vs. just protein
-- **"4,000,000 happy customers"** social proof
-- **Multiple delivery intervals** for flexibility
-- **Clean, clinical design** with scientific positioning
+- **Hero Section**: "$2.65 per meal" value messaging, 20% subscription discount
+- **Benefits Section**: Scientific credibility with "40g protein + 27 vitamins"
+- **Nutrition Section**: Complete meal positioning with detailed nutritional breakdown
+- **Reviews Section**: "4,000,000 happy customers" social proof with testimonials
+- **Overall**: Clinical design emphasizing scientific backing and complete nutrition
 
 ### 4. Noble Origins - All-in-One
-![Noble Origins Screenshot](screenshots/nobleorigins_screenshot.png)
+
+**Hero Section:**
+![Noble Origins Hero](screenshots/sections/nobleorigins_hero.png)
+
+**Benefits Section:**
+![Noble Origins Benefits](screenshots/sections/nobleorigins_benefits.png)
+
+**Ingredients Section:**
+![Noble Origins Ingredients](screenshots/sections/nobleorigins_ingredients.png)
+
+**Reviews Section:**
+![Noble Origins Reviews](screenshots/sections/nobleorigins_reviews.png)
 
 **Key Observations:**
-- **Premium positioning**: Higher price point ($142)
-- **"Nose-to-tail nutrition"** unique selling proposition
-- **Mission-driven branding** with founder story
-- **"Real food" messaging** vs. processed alternatives
-- **21g grass-fed beef protein** prominently featured
-- **Bundle options** for increased AOV
+- **Hero Section**: Premium positioning ($142) with "nose-to-tail nutrition" messaging
+- **Benefits Section**: Mission-driven branding emphasizing real food vs. processed
+- **Ingredients Section**: Comprehensive organ blend and sourcing transparency  
+- **Reviews Section**: Customer testimonials focusing on quality and nutrition
+- **Overall**: Premium brand positioning with founder story and traditional nutrition values
 
 ### 5. OWYN - Protein Shakes
 
