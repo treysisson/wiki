@@ -34,7 +34,15 @@ Screenshots are saved in `docs/screenshots/` folder:
 ## Screenshot Analysis
 
 ### 1. Equip Foods - Prime Protein
-![Equip Foods Screenshot](screenshots/equipfoods_screenshot.png)
+
+**Hero Section:**
+![Equip Foods Hero](screenshots/sections/equipfoods_hero.png)
+
+**Benefits Section:**
+![Equip Foods Benefits](screenshots/sections/equipfoods_benefits.png)
+
+**Reviews Section:**
+![Equip Foods Reviews](screenshots/sections/equipfoods_reviews.png)
 
 **Key Observations:**
 - **Clean, minimal design** with focus on product image
@@ -43,9 +51,22 @@ Screenshots are saved in `docs/screenshots/` folder:
 - **Strong social proof**: 6,433 reviews with 4.9/5 rating
 - **Simple value prop**: "21g of bioavailable, complete protein"
 - **Three key ingredients** highlighted: beef, cocoa, stevia
+- **Benefits section** emphasizes digestibility and taste
+- **Review section** showcases customer testimonials prominently
 
 ### 2. Ka'Chava - Chocolate Superblend
-![Ka'Chava Screenshot](screenshots/kachava_screenshot.png)
+
+**Hero Section:**
+![Ka'Chava Hero](screenshots/sections/kachava_hero.png)
+
+**Benefits Section:**
+![Ka'Chava Benefits](screenshots/sections/kachava_benefits.png)
+
+**Ingredients Section:**
+![Ka'Chava Ingredients](screenshots/sections/kachava_ingredients.png)
+
+**Testimonials Section:**
+![Ka'Chava Testimonials](screenshots/sections/kachava_testimonials.png)
 
 **Key Observations:**
 - **Visual-heavy design** with 5 flavor variants
@@ -54,9 +75,13 @@ Screenshots are saved in `docs/screenshots/` folder:
 - **Comprehensive certifications**: Vegan, gluten-free, non-GMO
 - **Educational approach** with ingredient transparency
 - **Free gift offer** with first order
+- **Detailed ingredients section** showcases superfood blend
+- **Customer testimonials** include photos and specific benefits
 
 ### 3. Huel - Black Edition
-![Huel Screenshot](screenshots/huel_screenshot.png)
+
+**Hero Section:**
+![Huel Hero](screenshots/sections/huel_hero.png)
 
 **Key Observations:**
 - **Value-focused messaging**: "$2.65 per meal"
@@ -65,6 +90,7 @@ Screenshots are saved in `docs/screenshots/` folder:
 - **Complete meal positioning** vs. just protein
 - **"4,000,000 happy customers"** social proof
 - **Multiple delivery intervals** for flexibility
+- **Clean, clinical design** with scientific positioning
 
 ### 4. Noble Origins - All-in-One
 ![Noble Origins Screenshot](screenshots/nobleorigins_screenshot.png)
@@ -78,7 +104,15 @@ Screenshots are saved in `docs/screenshots/` folder:
 - **Bundle options** for increased AOV
 
 ### 5. OWYN - Protein Shakes
-![OWYN Screenshot](screenshots/owyn_screenshot.png)
+
+**Hero Section:**
+![OWYN Hero](screenshots/sections/owyn_hero.png)
+
+**Benefits Section:**
+![OWYN Benefits](screenshots/sections/owyn_benefits.png)
+
+**Reviews Section:**
+![OWYN Reviews](screenshots/sections/owyn_reviews.png)
 
 **Key Observations:**
 - **"Only What You Need"** philosophy clearly communicated
@@ -87,9 +121,19 @@ Screenshots are saved in `docs/screenshots/` folder:
 - **Dietitian recommended** credibility marker
 - **3,462 reviews** for social proof
 - **Comprehensive FAQ section** for education
+- **Benefits section** highlights clean ingredients
+- **Review section** includes specific customer benefits
 
 ### 6. Aloha - Chocolate Protein
-![Aloha Screenshot](screenshots/aloha_screenshot.png)
+
+**Hero Section:**
+![Aloha Hero](screenshots/sections/aloha_hero.png)
+
+**Benefits Section:**
+![Aloha Benefits](screenshots/sections/aloha_benefits.png)
+
+**Reviews Section:**
+![Aloha Reviews](screenshots/sections/aloha_reviews.png)
 
 **Key Observations:**
 - **Clean, organic positioning** with earth tones
@@ -98,9 +142,19 @@ Screenshots are saved in `docs/screenshots/` folder:
 - **USDA Organic certification** prominently displayed
 - **Recipe integration** showing versatility
 - **Strong visual hierarchy** with clear CTAs
+- **Benefits section** emphasizes organic ingredients
+- **Reviews section** shows customer photos and experiences
 
 ### 7. Ritual - Essential Protein
-![Ritual Screenshot](screenshots/ritual_screenshot.png)
+
+**Hero Section:**
+![Ritual Hero](screenshots/sections/ritual_hero.png)
+
+**Benefits Section:**
+![Ritual Benefits](screenshots/sections/ritual_benefits.png)
+
+**Ingredients Section:**
+![Ritual Ingredients](screenshots/sections/ritual_ingredients.png)
 
 **Key Observations:**
 - **Premium, clinical design** with white/mint color scheme
@@ -109,9 +163,19 @@ Screenshots are saved in `docs/screenshots/` folder:
 - **"Hand-crafted vanilla"** premium messaging
 - **Scientific approach** with ingredient sourcing
 - **Clean, minimal buy box** design
+- **Benefits section** emphasizes transparency and science
+- **Ingredients section** shows detailed sourcing information
 
 ### 8. Ballerina Farm - Farmer Protein
-![Ballerina Farm Screenshot](screenshots/ballerinafarm_screenshot.png)
+
+**Hero Section:**
+![Ballerina Farm Hero](screenshots/sections/ballerinafarm_hero.png)
+
+**Benefits Section:**
+![Ballerina Farm Benefits](screenshots/sections/ballerinafarm_benefits.png)
+
+**Ingredients Section:**
+![Ballerina Farm Ingredients](screenshots/sections/ballerinafarm_ingredients.png)
 
 **Key Observations:**
 - **Rustic, authentic branding** with farm imagery
@@ -120,6 +184,8 @@ Screenshots are saved in `docs/screenshots/` folder:
 - **"Calf-first bovine colostrum"** unique ingredient
 - **Variety pack** approach for trial
 - **Farm-to-table positioning** with lifestyle branding
+- **Benefits section** emphasizes farm quality and trust
+- **Ingredients section** showcases clean, real-food approach
 
 ---
 
