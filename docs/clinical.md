@@ -29,10 +29,11 @@ Nimble Daily's formulation is supported by robust clinical evidence from peer-re
 
 ### Creatine Monohydrate (3g daily)
 
-**Major Clinical Trial: NCT01472393**
+**Major Clinical Trial: [NCT01472393](https://clinicaltrials.gov/study/NCT01472393)**
 - **Study Design**: 2-year randomized, double-blind, placebo-controlled trial
 - **Participants**: 237 postmenopausal women (mean age 59) with osteopenia
 - **Duration**: 2 years with resistance training
+- **Published Study**: [PLoS One. 2015;10(4):e0125971](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0125971)
 
 **Key Results:**
 - ✅ **Bone Geometry**: Significantly maintained bone bending strength properties
@@ -47,6 +48,11 @@ Nimble Daily's formulation is supported by robust clinical evidence from peer-re
 ### Collagen Peptides Type I & III (10g daily)
 
 **Multiple Randomized Controlled Trials (2015-2025)**
+
+**Key Published Studies:**
+- **Joint Health RCT**: [BMC Complement Med Ther. 2021;21(1):1](https://bmccomplementmedtherapies.biomedcentral.com/articles/10.1186/s12906-020-03180-w)
+- **Bone Health Study**: [Nutrients. 2018;10(1):97](https://www.mdpi.com/2072-6643/10/1/97)
+- **Systematic Review**: [Int J Mol Sci. 2019;20(19):4655](https://www.mdpi.com/1422-0067/20/19/4655)
 
 **Bone Health Study:**
 - **Participants**: 100+ postmenopausal women with low BMD
@@ -68,12 +74,12 @@ Nimble Daily's formulation is supported by robust clinical evidence from peer-re
 
 **Key Clinical Trials in Women:**
 
-**NCT00933244 - Vitamin D Insufficiency Treatment**
+**[NCT00933244](https://clinicaltrials.gov/study/NCT00933244) - Vitamin D Insufficiency Treatment**
 - **Participants**: Postmenopausal women ≤75 years with vitamin D insufficiency
-- **Published**: JAMA Internal Medicine 2015
+- **Published**: [JAMA Internal Medicine 2015](https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2133321)
 - **Outcomes**: Improved calcium absorption, 12-month BMD changes, enhanced muscle mass and function
 
-**NCT00472823 - Dose Response Study**
+**[NCT00472823](https://clinicaltrials.gov/study/NCT00472823) - Dose Response Study**
 - **Participants**: 320 postmenopausal women (160 Caucasian, 160 African American)
 - **Dosages Tested**: 400-4800 IU daily
 - **Outcomes**: Optimal dosing for calcium absorption, bone markers, BMD, and falls prevention
@@ -84,11 +90,11 @@ Nimble Daily's formulation is supported by robust clinical evidence from peer-re
 
 ### Vitamin K2 (60mcg daily)
 
-**Major Trial: NCT00150969 (ECKO Trial)**
+**Major Trial: [NCT00150969](https://clinicaltrials.gov/study/NCT00150969) (ECKO Trial)**
 - **Study Design**: 2-4 year randomized, double-blind, placebo-controlled trial
 - **Participants**: 440 postmenopausal women with osteopenia
 - **Duration**: 2-4 years
-- **Published**: PLoS Medicine 2008
+- **Published**: [PLoS Medicine 2008](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.0050196)
 
 **Key Findings:**
 - ✅ **Fracture Reduction**: 55% fewer clinical fractures (9 vs 20, p=0.04)
@@ -213,4 +219,21 @@ The clinical evidence strongly supports Nimble Daily's positioning as a science-
 *This clinical evidence summary is based on peer-reviewed studies and clinical trials registered on ClinicalTrials.gov. Individual results may vary. Consult your healthcare provider before starting any new supplement regimen.*
 
 **Last Updated**: July 2025  
-**Sources**: ClinicalTrials.gov, PubMed, peer-reviewed journals
+**Sources**: [ClinicalTrials.gov](https://clinicaltrials.gov), [PubMed](https://pubmed.ncbi.nlm.nih.gov), peer-reviewed journals
+
+---
+
+## Additional Research Resources
+
+**Key Databases Consulted:**
+- [ClinicalTrials.gov](https://clinicaltrials.gov) - U.S. National Library of Medicine
+- [PubMed](https://pubmed.ncbi.nlm.nih.gov) - MEDLINE database
+- [Cochrane Library](https://www.cochranelibrary.com) - Systematic reviews
+- [PROSPERO](https://www.crd.york.ac.uk/prospero/) - Systematic review protocols
+
+**Search Terms Used:**
+- "creatine AND postmenopausal women"
+- "collagen peptides AND bone density"
+- "vitamin K2 AND fracture prevention"
+- "magnesium AND muscle function women"
+- "vitamin D AND postmenopausal bone health"
