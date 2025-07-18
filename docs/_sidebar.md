@@ -12,12 +12,12 @@
 
 *   **Strategy**
     *   [Competitive Analysis](competitor_comp.md)
+    *   [PDP Competitor Analysis](pdp_competitor_analysis.md)
 
 *   **Website**
     *   [Homepage](homepage.md)
     *   [About](about.md)
     *   [Product Detail Page](pdp.md)
-    *   [PDP Competitor Analysis](pdp_competitor_analysis.md)
 
 *   **Reference**
     *   [Source Inspiration (nimbledaily)](nimbledaily.md) 
