@@ -8,12 +8,12 @@ Our commitment to quality and transparency means providing detailed documentatio
 <summary><strong>Magnesium Bisglycinate Chelate Buffered</strong></summary>
 
 ### Certificate of Analysis
-<iframe src="QualityDocs/03451-GF_Magnesium Buffered COA_(BN19000000015).pdf" width="100%" height="600px" frameborder="0">
+<iframe src="https://mozilla.github.io/pdf.js/web/viewer.html?file=https://treysisson.github.io/wiki/QualityDocs/03451-GF_Magnesium%20Buffered%20COA_(BN19000000015).pdf" width="100%" height="600px" frameborder="0">
 📄 [View PDF](QualityDocs/03451-GF_Magnesium Buffered COA_(BN19000000015).pdf)
 </iframe>
 
-### Product Data Sheet
-<iframe src="QualityDocs/03451_Magnesium Bisglycinate Chelate Buffered_PDS 22-AUG-2024.pdf" width="100%" height="600px" frameborder="0">
+### Product Data Sheet  
+<iframe src="https://mozilla.github.io/pdf.js/web/viewer.html?file=https://treysisson.github.io/wiki/QualityDocs/03451_Magnesium%20Bisglycinate%20Chelate%20Buffered_PDS%2022-AUG-2024.pdf" width="100%" height="600px" frameborder="0">
 📄 [View PDF](QualityDocs/03451_Magnesium Bisglycinate Chelate Buffered_PDS 22-AUG-2024.pdf)
 </iframe>
 
@@ -23,12 +23,12 @@ Our commitment to quality and transparency means providing detailed documentatio
 <summary><strong>Magnesium Bisglycinate Chelate Buffered SF (Salt Free)</strong></summary>
 
 ### Certificate of Analysis
-<iframe src="QualityDocs/03455_Magnesium Bisglycinate Chelate Buffered SF_COA (BN12000005421).pdf" width="100%" height="600px" frameborder="0">
+<iframe src="https://mozilla.github.io/pdf.js/web/viewer.html?file=https://treysisson.github.io/wiki/QualityDocs/03455_Magnesium%20Bisglycinate%20Chelate%20Buffered%20SF_COA%20(BN12000005421).pdf" width="100%" height="600px" frameborder="0">
 📄 [View PDF](QualityDocs/03455_Magnesium Bisglycinate Chelate Buffered SF_COA (BN12000005421).pdf)
 </iframe>
 
 ### Product Data Sheet
-<iframe src="QualityDocs/03455_Magnesium Bisglycinate Chelate Buffered SF_PDS 22-AUG-2024.pdf" width="100%" height="600px" frameborder="0">
+<iframe src="https://mozilla.github.io/pdf.js/web/viewer.html?file=https://treysisson.github.io/wiki/QualityDocs/03455_Magnesium%20Bisglycinate%20Chelate%20Buffered%20SF_PDS%2022-AUG-2024.pdf" width="100%" height="600px" frameborder="0">
 📄 [View PDF](QualityDocs/03455_Magnesium Bisglycinate Chelate Buffered SF_PDS 22-AUG-2024.pdf)
 </iframe>
 
