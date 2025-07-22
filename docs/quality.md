@@ -8,21 +8,21 @@ Our commitment to quality and transparency means providing detailed documentatio
 <summary><strong>Magnesium Bisglycinate Chelate Buffered</strong></summary>
 
 ### Certificate of Analysis
-<embed src="QualityDocs/03451-GF_Magnesium Buffered COA_(BN19000000015).pdf" type="application/pdf" width="100%" height="600px" />
+📄 [Download COA](QualityDocs/03451-GF_Magnesium%20Buffered%20COA_(BN19000000015).pdf)
 
 ### Product Data Sheet
-<embed src="QualityDocs/03451_Magnesium Bisglycinate Chelate Buffered_PDS 22-AUG-2024.pdf" type="application/pdf" width="100%" height="600px" />
+📄 [Download PDS](QualityDocs/03451_Magnesium%20Bisglycinate%20Chelate%20Buffered_PDS%2022-AUG-2024.pdf)
 
 </details>
 
 <details>
-<summary><strong>Magnesium Bisglycinate Chelate Buffered SF</strong></summary>
+<summary><strong>Magnesium Bisglycinate Chelate Buffered SF (Salt Free)</strong></summary>
 
 ### Certificate of Analysis
-<embed src="QualityDocs/03455_Magnesium Bisglycinate Chelate Buffered SF_COA (BN12000005421).pdf" type="application/pdf" width="100%" height="600px" />
+📄 [Download COA](QualityDocs/03455_Magnesium%20Bisglycinate%20Chelate%20Buffered%20SF_COA%20(BN12000005421).pdf)
 
 ### Product Data Sheet
-<embed src="QualityDocs/03455_Magnesium Bisglycinate Chelate Buffered SF_PDS 22-AUG-2024.pdf" type="application/pdf" width="100%" height="600px" />
+📄 [Download PDS](QualityDocs/03455_Magnesium%20Bisglycinate%20Chelate%20Buffered%20SF_PDS%2022-AUG-2024.pdf)
 
 </details>
 
@@ -30,10 +30,10 @@ Our commitment to quality and transparency means providing detailed documentatio
 <summary><strong>Copper Bisglycinate Chelate</strong></summary>
 
 ### Certificate of Analysis
-<embed src="QualityDocs/03502_Copper Bisglycinate Chelate COA_(BN12000005207).pdf" type="application/pdf" width="100%" height="600px" />
+📄 [Download COA](QualityDocs/03502_Copper%20Bisglycinate%20Chelate%20COA_(BN12000005207).pdf)
 
 ### Product Data Sheet
-<embed src="QualityDocs/03502_Copper Bisglycinate Chelate_PDS 22-AUG-2024.pdf" type="application/pdf" width="100%" height="600px" />
+📄 [Download PDS](QualityDocs/03502_Copper%20Bisglycinate%20Chelate_PDS%2022-AUG-2024.pdf)
 
 </details>
 
@@ -41,122 +41,61 @@ Our commitment to quality and transparency means providing detailed documentatio
 <summary><strong>Zinc Bisglycinate Chelate</strong></summary>
 
 ### Certificate of Analysis
-<embed src="QualityDocs/03506_Zinc Bisglycinate Chelate COA_(BN12000005573).pdf" type="application/pdf" width="100%" height="600px" />
+📄 [Download COA](QualityDocs/03506_Zinc%20Bisglycinate%20Chelate%20COA_(BN12000005573).pdf)
 
 ### Product Data Sheet
-<embed src="QualityDocs/03506_Zinc Bisglycinate Chelate_PDS 22-AUG-2024.pdf" type="application/pdf" width="100%" height="600px" />
+📄 [Download PDS](QualityDocs/03506_Zinc%20Bisglycinate%20Chelate_PDS%2022-AUG-2024.pdf)
 
 </details>
 
 <details>
-<summary><strong>Zinc Bisglycinate Chelate SF</strong></summary>
+<summary><strong>Zinc Bisglycinate Chelate SF (Salt Free)</strong></summary>
 
 ### Certificate of Analysis
-<embed src="QualityDocs/03507_Zinc Bisglycinate Chelate SF COA_(BN12000005720).pdf" type="application/pdf" width="100%" height="600px" />
+📄 [Download COA](QualityDocs/03507_Zinc%20Bisglycinate%20Chelate%20SF%20COA_(BN12000005720).pdf)
 
 ### Product Data Sheet
-<embed src="QualityDocs/03507_Zinc Bisglycinate Chelate SF_PDS 22-AUG-2024.pdf" type="application/pdf" width="100%" height="600px" />
+📄 [Download PDS](QualityDocs/03507_Zinc%20Bisglycinate%20Chelate%20SF_PDS%2022-AUG-2024.pdf)
 
 </details>
 
 <details>
-<summary><strong>Additional Ingredients</strong></summary>
+<summary><strong>Additional Raw Materials & Ingredients</strong></summary>
 
-### Specification Sheets
+*Note: These ingredients are identified by supplier product codes. Contact us for specific ingredient identification.*
 
-<details>
-<summary>Ingredient 20519</summary>
-<embed src="QualityDocs/20519 Specification Sheet R3-25 (ID 3369771).pdf" type="application/pdf" width="100%" height="600px" />
-</details>
+### Specification Sheets & Product Data
 
-<details>
-<summary>Ingredient 20773</summary>
-<embed src="QualityDocs/20773 Product Data Sheet (PDS) D5-22 R5-23 (ID 2621639).pdf" type="application/pdf" width="100%" height="600px" />
-</details>
-
-<details>
-<summary>Ingredient 20790</summary>
-<embed src="QualityDocs/20790 Specification Sheet D8-19 R10-19 (ID 2202583).pdf" type="application/pdf" width="100%" height="600px" />
-</details>
-
-<details>
-<summary>Ingredient 20791</summary>
-<embed src="QualityDocs/20791 Specification Sheet R5-25 (ID 3475806).pdf" type="application/pdf" width="100%" height="600px" />
-</details>
-
-<details>
-<summary>Ingredient 20820</summary>
-<embed src="QualityDocs/20820 Specification Sheet D12-23 R8-24 (ID 3123679).pdf" type="application/pdf" width="100%" height="600px" />
-</details>
-
-<details>
-<summary>Ingredient 24966</summary>
-<embed src="QualityDocs/24966 Product Data Sheet (PDS) D1-24 R1-24 (ID 2886742).pdf" type="application/pdf" width="100%" height="600px" />
-</details>
-
-<details>
-<summary>Ingredient 25112</summary>
-<embed src="QualityDocs/25112 Specification Sheet D5-22 R5-23 (ID 2623167).pdf" type="application/pdf" width="100%" height="600px" />
-</details>
-
-<details>
-<summary>Ingredient 26252</summary>
-<embed src="QualityDocs/26252 Specification Sheet R7-24 (ID 3106951).pdf" type="application/pdf" width="100%" height="600px" />
-</details>
-
-<details>
-<summary>Ingredient 26261</summary>
-<embed src="QualityDocs/26261 Specification Sheet D2-25 R2-25 (ID 3350110).pdf" type="application/pdf" width="100%" height="600px" />
-</details>
-
-<details>
-<summary>Ingredient 26369</summary>
-<embed src="QualityDocs/26369 Specification Sheet_ Nutritional_ Product Statement_ Flow Chart D5-23 R8-23 (ID 2709595).pdf" type="application/pdf" width="100%" height="600px" />
-</details>
-
-<details>
-<summary>Ingredient 26439</summary>
-<embed src="QualityDocs/26439 Specification Sheet R6-24 (ID 3060876).pdf" type="application/pdf" width="100%" height="600px" />
-</details>
-
-<details>
-<summary>Ingredient 26567</summary>
-<embed src="QualityDocs/26567 Specification Sheet R9-24 (ID 3175936).pdf" type="application/pdf" width="100%" height="600px" />
-</details>
-
-<details>
-<summary>Ingredient 26588</summary>
-<embed src="QualityDocs/26588 Specification Sheet R8-24 (ID 3129606).pdf" type="application/pdf" width="100%" height="600px" />
-</details>
-
-<details>
-<summary>Ingredient 26621</summary>
-<embed src="QualityDocs/26621 Specification Sheet R5-25 (ID 3466059).pdf" type="application/pdf" width="100%" height="600px" />
-</details>
-
-<details>
-<summary>Ingredient 26633</summary>
-<embed src="QualityDocs/26633 Specification Sheet R3-25 (ID 3392586).pdf" type="application/pdf" width="100%" height="600px" />
-</details>
-
-<details>
-<summary>Ingredient 26639</summary>
-<embed src="QualityDocs/26639 Specification Sheet R3-25 (ID 3374428).pdf" type="application/pdf" width="100%" height="600px" />
-</details>
+- **20519** - 📄 [Download Specification Sheet](QualityDocs/20519%20Specification%20Sheet%20R3-25%20(ID%203369771).pdf)
+- **20773** - 📄 [Download Product Data Sheet](QualityDocs/20773%20Product%20Data%20Sheet%20(PDS)%20D5-22%20R5-23%20(ID%202621639).pdf)
+- **20790** - 📄 [Download Specification Sheet](QualityDocs/20790%20Specification%20Sheet%20D8-19%20R10-19%20(ID%202202583).pdf)
+- **20791** - 📄 [Download Specification Sheet](QualityDocs/20791%20Specification%20Sheet%20R5-25%20(ID%203475806).pdf)
+- **20820** - 📄 [Download Specification Sheet](QualityDocs/20820%20Specification%20Sheet%20D12-23%20R8-24%20(ID%203123679).pdf)
+- **24966** - 📄 [Download Product Data Sheet](QualityDocs/24966%20Product%20Data%20Sheet%20(PDS)%20D1-24%20R1-24%20(ID%202886742).pdf)
+- **25112** - 📄 [Download Specification Sheet](QualityDocs/25112%20Specification%20Sheet%20D5-22%20R5-23%20(ID%202623167).pdf)
+- **26252** - 📄 [Download Specification Sheet](QualityDocs/26252%20Specification%20Sheet%20R7-24%20(ID%203106951).pdf)
+- **26261** - 📄 [Download Specification Sheet](QualityDocs/26261%20Specification%20Sheet%20D2-25%20R2-25%20(ID%203350110).pdf)
+- **26369** - 📄 [Download Nutritional Statement & Flow Chart](QualityDocs/26369%20Specification%20Sheet_%20Nutritional_%20Product%20Statement_%20Flow%20Chart%20D5-23%20R8-23%20(ID%202709595).pdf)
+- **26439** - 📄 [Download Specification Sheet](QualityDocs/26439%20Specification%20Sheet%20R6-24%20(ID%203060876).pdf)
+- **26567** - 📄 [Download Specification Sheet](QualityDocs/26567%20Specification%20Sheet%20R9-24%20(ID%203175936).pdf)
+- **26588** - 📄 [Download Specification Sheet](QualityDocs/26588%20Specification%20Sheet%20R8-24%20(ID%203129606).pdf)
+- **26621** - 📄 [Download Specification Sheet](QualityDocs/26621%20Specification%20Sheet%20R5-25%20(ID%203466059).pdf)
+- **26633** - 📄 [Download Specification Sheet](QualityDocs/26633%20Specification%20Sheet%20R3-25%20(ID%203392586).pdf)
+- **26639** - 📄 [Download Specification Sheet](QualityDocs/26639%20Specification%20Sheet%20R3-25%20(ID%203374428).pdf)
 
 </details>
 
 <details>
-<summary><strong>Collagen Peptides (Solugel)</strong></summary>
+<summary><strong>Collagen Peptides (Beef Solugel)</strong></summary>
 
 ### Flow Chart
-<embed src="QualityDocs/Flow Chart (Beef Solugel) - Santa Fe 9.12.23.pdf" type="application/pdf" width="100%" height="600px" />
+📄 [Download Manufacturing Flow Chart](QualityDocs/Flow%20Chart%20(Beef%20Solugel)%20-%20Santa%20Fe%209.12.23.pdf)
 
-### Origin Statement
-<embed src="QualityDocs/Origin Statement COO (Solugel) - Santa Fe 1.23.24 - 12.31.26.pdf" type="application/pdf" width="100%" height="600px" />
+### Origin Statement  
+📄 [Download Certificate of Origin](QualityDocs/Origin%20Statement%20COO%20(Solugel)%20-%20Santa%20Fe%201.23.24%20-%2012.31.26.pdf)
 
 ### Quality FAQ
-<embed src="QualityDocs/Quality FAQ January 2024 - SF Collagen Peptides E34_EN.pdf" type="application/pdf" width="100%" height="600px" />
+📄 [Download Quality FAQ](QualityDocs/Quality%20FAQ%20January%202024%20-%20SF%20Collagen%20Peptides%20E34_EN.pdf)
 
 </details>
 
@@ -164,10 +103,10 @@ Our commitment to quality and transparency means providing detailed documentatio
 <summary><strong>General Quality Documentation</strong></summary>
 
 ### Allergen Information
-<embed src="QualityDocs/Allergens 02.01.23 - 02.01.28.pdf" type="application/pdf" width="100%" height="600px" />
+📄 [Download Allergen Statement](QualityDocs/Allergens%2002.01.23%20-%2002.01.28.pdf)
 
 ### GMO Statement
-<embed src="QualityDocs/Genetically Modified Organisms (GMO) 2.2.20 - 12.31.25 .pdf" type="application/pdf" width="100%" height="600px" />
+📄 [Download GMO Statement](QualityDocs/Genetically%20Modified%20Organisms%20(GMO)%202.2.20%20-%2012.31.25%20.pdf)
 
 </details>
 
