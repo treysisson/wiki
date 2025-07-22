@@ -50,6 +50,16 @@ Our commitment to quality and transparency means providing detailed documentatio
 📄 [View PDF](QualityDocs/Quality FAQ January 2024 - SF Collagen Peptides E34_EN.pdf)
 </iframe>
 
+### Allergen Information
+<iframe src="https://docs.google.com/viewer?url=https://treysisson.github.io/wiki/QualityDocs/Allergens%2002.01.23%20-%2002.01.28.pdf&embedded=true" width="100%" height="600px" frameborder="0">
+📄 [View PDF](QualityDocs/Allergens 02.01.23 - 02.01.28.pdf)
+</iframe>
+
+### GMO Statement
+<iframe src="https://docs.google.com/viewer?url=https://treysisson.github.io/wiki/QualityDocs/Genetically%20Modified%20Organisms%20(GMO)%202.2.20%20-%2012.31.25%20.pdf&embedded=true" width="100%" height="600px" frameborder="0">
+📄 [View PDF](QualityDocs/Genetically Modified Organisms (GMO) 2.2.20 - 12.31.25 .pdf)
+</iframe>
+
 </details>
 
 <details>
@@ -208,24 +218,6 @@ Our commitment to quality and transparency means providing detailed documentatio
 <summary><strong>Zinc Bisglycinate Chelate 20% (26588)</strong></summary>
 <iframe src="https://docs.google.com/viewer?url=https://treysisson.github.io/wiki/QualityDocs/26588%20Specification%20Sheet%20R8-24%20(ID%203129606).pdf&embedded=true" width="100%" height="600px" frameborder="0">
 📄 [View PDF](QualityDocs/26588 Specification Sheet R8-24 (ID 3129606).pdf)
-</iframe>
-</details>
-
----
-
-## General Quality Documentation
-
-<details>
-<summary><strong>Allergen Information</strong></summary>
-<iframe src="https://docs.google.com/viewer?url=https://treysisson.github.io/wiki/QualityDocs/Allergens%2002.01.23%20-%2002.01.28.pdf&embedded=true" width="100%" height="600px" frameborder="0">
-📄 [View PDF](QualityDocs/Allergens 02.01.23 - 02.01.28.pdf)
-</iframe>
-</details>
-
-<details>
-<summary><strong>GMO Statement</strong></summary>
-<iframe src="https://docs.google.com/viewer?url=https://treysisson.github.io/wiki/QualityDocs/Genetically%20Modified%20Organisms%20(GMO)%202.2.20%20-%2012.31.25%20.pdf&embedded=true" width="100%" height="600px" frameborder="0">
-📄 [View PDF](QualityDocs/Genetically Modified Organisms (GMO) 2.2.20 - 12.31.25 .pdf)
 </iframe>
 </details>
 

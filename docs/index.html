@@ -8,51 +8,39 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
   <style>
+    /* Hide hamburger menu on desktop */
+    .sidebar-toggle {
+      display: none !important;
+    }
     .app-name {
         padding: 0 20px;
     }
     .sidebar-nav .app-logo {
       padding: 0 20px !important;
     }
-    .sidebar-toggle {
-      width: 45px !important;
-      height: 45px !important;
-      background-color: rgba(0, 0, 0, 0.1) !important;
-      border: 2px solid #333 !important;
-      border-radius: 8px !important;
-      position: fixed !important;
-      top: 20px !important;
-      left: 20px !important;
-      z-index: 1000 !important;
-      box-shadow: 0 2px 8px rgba(0,0,0,0.15) !important;
-    }
-    .sidebar-toggle:hover {
-      background-color: rgba(0, 0, 0, 0.2) !important;
-      transform: scale(1.05) !important;
-    }
-    .sidebar-toggle span {
-      background-color: #333 !important;
-      height: 3px !important;
-      width: 25px !important;
-      margin: 6px auto !important;
-      display: block !important;
-      transition: all 0.3s !important;
-      border-radius: 2px !important;
-    }
-    /* Make hamburger menu more visible on mobile */
+    /* Only style hamburger menu on mobile when it's actually shown */
     @media (max-width: 768px) {
       .sidebar-toggle {
+        display: block !important;
         width: 50px !important;
         height: 50px !important;
         background-color: rgba(255, 255, 255, 0.95) !important;
         border: 2px solid #000 !important;
+        border-radius: 8px !important;
         box-shadow: 0 4px 12px rgba(0,0,0,0.25) !important;
+      }
+      .sidebar-toggle:hover {
+        background-color: rgba(240, 240, 240, 0.95) !important;
+        transform: scale(1.05) !important;
       }
       .sidebar-toggle span {
         height: 4px !important;
         width: 28px !important;
         background-color: #000 !important;
         margin: 7px auto !important;
+        display: block !important;
+        transition: all 0.3s !important;
+        border-radius: 2px !important;
       }
     }
   </style>
