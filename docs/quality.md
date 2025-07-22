@@ -164,6 +164,13 @@ Our commitment to quality and transparency means providing detailed documentatio
 </details>
 
 <details>
+<summary><strong>Prinova</strong></summary>
+<iframe src="https://docs.google.com/viewer?url=https://treysisson.github.io/wiki/QualityDocs/PrinovaComposition.pdf&embedded=true" width="100%" height="600px" frameborder="0">
+📄 [View PDF](QualityDocs/PrinovaComposition.pdf)
+</iframe>
+</details>
+
+<details>
 <summary><strong>Pyridoxal 5-Phosphate - Vitamin B6 (20791)</strong></summary>
 <iframe src="https://docs.google.com/viewer?url=https://treysisson.github.io/wiki/QualityDocs/20791%20Specification%20Sheet%20R5-25%20(ID%203475806).pdf&embedded=true" width="100%" height="600px" frameborder="0">
 📄 [View PDF](QualityDocs/20791 Specification Sheet R5-25 (ID 3475806).pdf)
