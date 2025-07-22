@@ -163,12 +163,6 @@ Our commitment to quality and transparency means providing detailed documentatio
 </iframe>
 </details>
 
-## Prinova
-
-<iframe src="https://docs.google.com/viewer?url=https://treysisson.github.io/wiki/QualityDocs/PrinovaComposition.pdf&embedded=true" width="100%" height="600px" frameborder="0">
-📄 [View PDF](QualityDocs/PrinovaComposition.pdf)
-</iframe>
-
 <details>
 <summary><strong>Pyridoxal 5-Phosphate - Vitamin B6 (20791)</strong></summary>
 <iframe src="https://docs.google.com/viewer?url=https://treysisson.github.io/wiki/QualityDocs/20791%20Specification%20Sheet%20R5-25%20(ID%203475806).pdf&embedded=true" width="100%" height="600px" frameborder="0">
@@ -186,7 +180,7 @@ Our commitment to quality and transparency means providing detailed documentatio
 <details>
 <summary><strong>Vitamin K2 1000ppm MK7 (26621)</strong></summary>
 <iframe src="https://docs.google.com/viewer?url=https://treysisson.github.io/wiki/QualityDocs/26621%20Specification%20Sheet%20R5-25%20(ID%203466059).pdf&embedded=true" width="100%" height="600px" frameborder="0">
-📄 [View PDF](QualityDocs/26621 Specification Sheet R5-25 (ID 3466059).pdf)
+�� [View PDF](QualityDocs/26621 Specification Sheet R5-25 (ID 3466059).pdf)
 </iframe>
 </details>
 
@@ -224,6 +218,15 @@ Our commitment to quality and transparency means providing detailed documentatio
 <summary><strong>Zinc Bisglycinate Chelate 20% (26588)</strong></summary>
 <iframe src="https://docs.google.com/viewer?url=https://treysisson.github.io/wiki/QualityDocs/26588%20Specification%20Sheet%20R8-24%20(ID%203129606).pdf&embedded=true" width="100%" height="600px" frameborder="0">
 📄 [View PDF](QualityDocs/26588 Specification Sheet R8-24 (ID 3129606).pdf)
+</iframe>
+</details>
+
+## Prinova
+
+<details>
+<summary><strong>Composition Statement</strong></summary>
+<iframe src="https://docs.google.com/viewer?url=https://treysisson.github.io/wiki/QualityDocs/PrinovaComposition.pdf&embedded=true" width="100%" height="600px" frameborder="0">
+📄 [View PDF](QualityDocs/PrinovaComposition.pdf)
 </iframe>
 </details>
 
