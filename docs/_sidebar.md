@@ -4,6 +4,7 @@
     *   [Company Mission](company.md)
     *   [Product Details](product.md)
     *   [Clinical Evidence](clinical.md)
+    *   [Quality & Compliance](quality.md)
     *   [Tone of Voice](toneofvoice.md)
 
 *   **Content Strategy**
