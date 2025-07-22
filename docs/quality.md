@@ -230,6 +230,27 @@ Our commitment to quality and transparency means providing detailed documentatio
 </iframe>
 </details>
 
+<details>
+<summary><strong>100g Nutrition Profile</strong></summary>
+<iframe src="https://docs.google.com/viewer?url=https://treysisson.github.io/wiki/QualityDocs/100g_nutrition_profile.pdf&embedded=true" width="100%" height="600px" frameborder="0">
+📄 [View PDF](QualityDocs/100g_nutrition_profile.pdf)
+</iframe>
+</details>
+
+<details>
+<summary><strong>Allergen and GMO Declaration</strong></summary>
+<iframe src="https://docs.google.com/viewer?url=https://treysisson.github.io/wiki/QualityDocs/Prinova_Allergen%20and%20GMO%20Declaration.pdf&embedded=true" width="100%" height="600px" frameborder="0">
+📄 [View PDF](QualityDocs/Prinova_Allergen and GMO Declaration.pdf)
+</iframe>
+</details>
+
+<details>
+<summary><strong>Composition Statement - High Level</strong></summary>
+<iframe src="https://docs.google.com/viewer?url=https://treysisson.github.io/wiki/QualityDocs/Composition%20Statement_high%20level.pdf&embedded=true" width="100%" height="600px" frameborder="0">
+📄 [View PDF](QualityDocs/Composition Statement_high level.pdf)
+</iframe>
+</details>
+
 ---
 
 *All documentation is current as of the latest batch testing. For specific batch information, please refer to the individual certificates of analysis.*
