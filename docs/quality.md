@@ -8,10 +8,14 @@ Our commitment to quality and transparency means providing detailed documentatio
 <summary><strong>Magnesium Bisglycinate Chelate Buffered</strong></summary>
 
 ### Certificate of Analysis
-📄 [Download COA](QualityDocs/03451-GF_Magnesium%20Buffered%20COA_(BN19000000015).pdf)
+<iframe src="QualityDocs/03451-GF_Magnesium Buffered COA_(BN19000000015).pdf" width="100%" height="600px" frameborder="0">
+📄 [View PDF](QualityDocs/03451-GF_Magnesium Buffered COA_(BN19000000015).pdf)
+</iframe>
 
 ### Product Data Sheet
-📄 [Download PDS](QualityDocs/03451_Magnesium%20Bisglycinate%20Chelate%20Buffered_PDS%2022-AUG-2024.pdf)
+<iframe src="QualityDocs/03451_Magnesium Bisglycinate Chelate Buffered_PDS 22-AUG-2024.pdf" width="100%" height="600px" frameborder="0">
+📄 [View PDF](QualityDocs/03451_Magnesium Bisglycinate Chelate Buffered_PDS 22-AUG-2024.pdf)
+</iframe>
 
 </details>
 
@@ -19,10 +23,14 @@ Our commitment to quality and transparency means providing detailed documentatio
 <summary><strong>Magnesium Bisglycinate Chelate Buffered SF (Salt Free)</strong></summary>
 
 ### Certificate of Analysis
-📄 [Download COA](QualityDocs/03455_Magnesium%20Bisglycinate%20Chelate%20Buffered%20SF_COA%20(BN12000005421).pdf)
+<iframe src="QualityDocs/03455_Magnesium Bisglycinate Chelate Buffered SF_COA (BN12000005421).pdf" width="100%" height="600px" frameborder="0">
+📄 [View PDF](QualityDocs/03455_Magnesium Bisglycinate Chelate Buffered SF_COA (BN12000005421).pdf)
+</iframe>
 
 ### Product Data Sheet
-📄 [Download PDS](QualityDocs/03455_Magnesium%20Bisglycinate%20Chelate%20Buffered%20SF_PDS%2022-AUG-2024.pdf)
+<iframe src="QualityDocs/03455_Magnesium Bisglycinate Chelate Buffered SF_PDS 22-AUG-2024.pdf" width="100%" height="600px" frameborder="0">
+📄 [View PDF](QualityDocs/03455_Magnesium Bisglycinate Chelate Buffered SF_PDS 22-AUG-2024.pdf)
+</iframe>
 
 </details>
 
@@ -30,10 +38,14 @@ Our commitment to quality and transparency means providing detailed documentatio
 <summary><strong>Copper Bisglycinate Chelate</strong></summary>
 
 ### Certificate of Analysis
-📄 [Download COA](QualityDocs/03502_Copper%20Bisglycinate%20Chelate%20COA_(BN12000005207).pdf)
+<iframe src="QualityDocs/03502_Copper Bisglycinate Chelate COA_(BN12000005207).pdf" width="100%" height="600px" frameborder="0">
+📄 [View PDF](QualityDocs/03502_Copper Bisglycinate Chelate COA_(BN12000005207).pdf)
+</iframe>
 
 ### Product Data Sheet
-📄 [Download PDS](QualityDocs/03502_Copper%20Bisglycinate%20Chelate_PDS%2022-AUG-2024.pdf)
+<iframe src="QualityDocs/03502_Copper Bisglycinate Chelate_PDS 22-AUG-2024.pdf" width="100%" height="600px" frameborder="0">
+📄 [View PDF](QualityDocs/03502_Copper Bisglycinate Chelate_PDS 22-AUG-2024.pdf)
+</iframe>
 
 </details>
 
@@ -41,10 +53,14 @@ Our commitment to quality and transparency means providing detailed documentatio
 <summary><strong>Zinc Bisglycinate Chelate</strong></summary>
 
 ### Certificate of Analysis
-📄 [Download COA](QualityDocs/03506_Zinc%20Bisglycinate%20Chelate%20COA_(BN12000005573).pdf)
+<object data="QualityDocs/03506_Zinc Bisglycinate Chelate COA_(BN12000005573).pdf" type="application/pdf" width="100%" height="600px">
+    <p>PDF cannot be displayed. <a href="QualityDocs/03506_Zinc Bisglycinate Chelate COA_(BN12000005573).pdf">Download PDF</a></p>
+</object>
 
 ### Product Data Sheet
-📄 [Download PDS](QualityDocs/03506_Zinc%20Bisglycinate%20Chelate_PDS%2022-AUG-2024.pdf)
+<object data="QualityDocs/03506_Zinc Bisglycinate Chelate_PDS 22-AUG-2024.pdf" type="application/pdf" width="100%" height="600px">
+    <p>PDF cannot be displayed. <a href="QualityDocs/03506_Zinc Bisglycinate Chelate_PDS 22-AUG-2024.pdf">Download PDF</a></p>
+</object>
 
 </details>
 
