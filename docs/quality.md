@@ -163,12 +163,11 @@ Our commitment to quality and transparency means providing detailed documentatio
 </iframe>
 </details>
 
-<details>
-<summary><strong>Prinova</strong></summary>
+## Prinova
+
 <iframe src="https://docs.google.com/viewer?url=https://treysisson.github.io/wiki/QualityDocs/PrinovaComposition.pdf&embedded=true" width="100%" height="600px" frameborder="0">
 📄 [View PDF](QualityDocs/PrinovaComposition.pdf)
 </iframe>
-</details>
 
 <details>
 <summary><strong>Pyridoxal 5-Phosphate - Vitamin B6 (20791)</strong></summary>
