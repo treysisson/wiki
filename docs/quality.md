@@ -99,6 +99,13 @@ Our commitment to quality and transparency means providing detailed documentatio
 </details>
 
 <details>
+<summary><strong>HydroBEEF™ Amino Acid Profile</strong></summary>
+<iframe src="https://docs.google.com/viewer?url=https://treysisson.github.io/wiki/QualityDocs/Hydrobeef%20Spec%20AA%20Profile.pdf&embedded=true" width="100%" height="600px" frameborder="0">
+📄 [View PDF](QualityDocs/Hydrobeef Spec AA Profile.pdf)
+</iframe>
+</details>
+
+<details>
 <summary><strong>Magnesium Bisglycinate Chelate Buffered</strong></summary>
 
 ### Certificate of Analysis

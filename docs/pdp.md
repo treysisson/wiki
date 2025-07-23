@@ -18,9 +18,9 @@
 The only protein powder designed specifically for women's physiology. Delivers the highest protein content in the category (26g) plus clinical doses of creatine and collagen - ingredients most competitors don't include. Clean, science-backed, and transparently dosed.
 
 **Choose Your Plan:**
-- **One-Time Purchase (15 Servings):** $74.99
-- **Subscribe & Save (15 Servings):** $58.49 *(Save 22%)* ← **MOST POPULAR**
-- **Subscribe & Save (30 Servings):** $98.99 *(Best Value - Save 34%)*
+- **One-Time Purchase (15 Servings):** $85.00
+- **Subscribe & Save (15 Servings):** $68.00 *(Save 20%)* ← **MOST POPULAR**
+- **Subscribe & Save (30 Servings):** $119.00 *(Best Value - Save 30%)*
 
 **Subscription Benefits:**
 ✓ Free shipping on all orders  
