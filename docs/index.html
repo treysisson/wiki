@@ -7,9 +7,42 @@
   <meta name="description" content="Description">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
   <link rel="icon" type="image/png" href="favicon.png">
-  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
-  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify-dark-mode@latest/dist/style.min.css"/>
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css" title="vue" disabled>
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/dark.css" title="dark" disabled>
+  <link rel="stylesheet alternative" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css" title="vue">
+  <link rel="stylesheet alternative" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/dark.css" title="dark">
   <style>
+    /* Dark mode toggle button */
+    .dark-mode-toggle {
+      position: fixed;
+      right: 20px;
+      bottom: 20px;
+      width: 50px;
+      height: 50px;
+      background: #42b983;
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      cursor: pointer;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+      z-index: 999;
+      transition: all 0.3s ease;
+    }
+    .dark-mode-toggle:hover {
+      transform: scale(1.1);
+      box-shadow: 0 4px 12px rgba(0,0,0,0.25);
+    }
+    .dark-mode-toggle::after {
+      content: '🌙';
+      font-size: 24px;
+    }
+    body.dark .dark-mode-toggle::after {
+      content: '☀️';
+    }
+    body.dark .dark-mode-toggle {
+      background: #ffa500;
+    }
     /* Hide hamburger menu on desktop */
     .sidebar-toggle {
       display: none !important;
@@ -57,18 +90,6 @@
       loadSidebar: true,
       homepage: 'company.md',
       subMaxLevel: 2,
-      darkMode: {
-        dark: {
-          background: "#1c2022",
-          toggleBtnBg: "#34495e",
-          textColor: "#b4b4b4"
-        },
-        light: {
-          background: "white",
-          toggleBtnBg: "var(--theme-color)",
-          textColor: "var(--theme-color)"
-        }
-      },
       alias: {
         '/.*/_sidebar.md': '/_sidebar.md'
       },
@@ -81,13 +102,49 @@
               new Tablesort(table);
             }
           });
+          
+          hook.ready(function() {
+            // Create dark mode toggle button
+            const toggleBtn = document.createElement('div');
+            toggleBtn.className = 'dark-mode-toggle';
+            toggleBtn.title = 'Toggle dark mode';
+            document.body.appendChild(toggleBtn);
+            
+            // Check for saved theme preference or default to light
+            const currentTheme = localStorage.getItem('theme') || 'light';
+            if (currentTheme === 'dark') {
+              document.body.classList.add('dark');
+              enableTheme('dark');
+            } else {
+              enableTheme('vue');
+            }
+            
+            // Toggle dark mode on click
+            toggleBtn.addEventListener('click', function() {
+              if (document.body.classList.contains('dark')) {
+                document.body.classList.remove('dark');
+                enableTheme('vue');
+                localStorage.setItem('theme', 'light');
+              } else {
+                document.body.classList.add('dark');
+                enableTheme('dark');
+                localStorage.setItem('theme', 'dark');
+              }
+            });
+            
+            function enableTheme(title) {
+              const links = document.querySelectorAll('link[rel*="stylesheet"][title]');
+              links.forEach(link => {
+                link.disabled = link.title !== title;
+              });
+            }
+          });
         }
       ]
     }
   </script>
   <!-- Docsify v4 -->
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
-  <script src="//cdn.jsdelivr.net/npm/docsify-dark-mode@latest/dist/index.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/tablesort@5.3.0/dist/tablesort.min.js"></script>
 </body>
 </html>
