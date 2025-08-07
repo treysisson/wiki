@@ -3,6 +3,7 @@
 *   **Brand & Product**
     *   [Company Mission](company.md)
     *   [Product Details](product.md)
+    *   [Brand Analysis](BrandAnalysis.md)
     *   [Clinical Evidence](clinical.md)
     *   [Quality & Compliance](quality.md)
     *   [Tone of Voice](toneofvoice.md)
@@ -10,6 +11,7 @@
 *   **Content Strategy**
     *   [Marketing Hooks](hooks.md)
     *   [Target Consumer](consumer.md)
+    *   [Video Scripts](VideoScripts.md)
 
 *   **Strategy**
     *   [Competitive Analysis](competitor_comp.md)
