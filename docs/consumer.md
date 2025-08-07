@@ -1,5 +1,19 @@
 # Target Consumer Persona: "The Resilient Leader"
 
+## Summary
+
+Our target consumer is an accomplished woman aged 38-58 who leads with strength in both her professional and personal life. She's in a demanding career position while managing significant family responsibilities. Many are navigating perimenopause or menopause, experiencing the physical changes that come with hormonal shifts. She's highly educated, digitally savvy, and values evidence-based solutions over marketing hype.
+
+**Key Characteristics:**
+- **Age Range:** 38-58 years old (core: 42-52)
+- **Life Stage:** Perimenopause through post-menopause, juggling career peaks with family obligations
+- **Interests & Hobbies:** Active lifestyle including yoga, running, hiking, tennis, strength training; values time with family; continuous learners
+- **Values:** Efficiency, integrity, science-backed solutions, long-term health investment
+- **Pain Points:** Joint discomfort, slower recovery, muscle loss concerns, supplement overwhelm, feeling invisible to mainstream health market
+- **Core Desire:** To maintain physical capability that matches her mental drive and stay strong for decades to come
+
+She sees her health as a strategic investment and seeks a simple, trusted solution that respects her intelligence and time constraints. Whether she's a corporate executive, healthcare professional, entrepreneur, or community leader, she refuses to slow down and is proactively building her "health 401k" for sustained vitality.
+
 ## 1. Demographic Profile
 
 -   **Name:** Let's call her "Sarah."
