@@ -14,6 +14,7 @@
     *   [Video Scripts](VideoScripts.md)
     *   [Email Plan](emailplan.md)
     *   [FAQs](faqs.md)
+    *   [Social Content Bank](socialcontent.md)
 
 *   **Strategy**
     *   [Competitive Analysis](competitor_comp.md)
