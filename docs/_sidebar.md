@@ -12,6 +12,7 @@
     *   [Marketing Hooks](hooks.md)
     *   [Target Consumer](consumer.md)
     *   [Video Scripts](VideoScripts.md)
+    *   [Email Plan](emailplan.md)
 
 *   **Strategy**
     *   [Competitive Analysis](competitor_comp.md)
