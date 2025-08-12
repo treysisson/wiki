@@ -13,6 +13,7 @@
     *   [Target Consumer](consumer.md)
     *   [Video Scripts](VideoScripts.md)
     *   [Email Plan](emailplan.md)
+    *   [FAQs](faqs.md)
 
 *   **Strategy**
     *   [Competitive Analysis](competitor_comp.md)
