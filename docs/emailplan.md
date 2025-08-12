@@ -5,8 +5,7 @@ This comprehensive email plan outlines all essential email communications for Ni
 
 ---
 
-<details>
-<summary><h2>📧 Transactional Emails</h2></summary>
+## 📧 Transactional Emails
 
 ### Order Confirmation
 **Subject:** Order Confirmed: Your Nimble Daily is on the way
@@ -237,14 +236,11 @@ When you're ready to start your daily strength investment: [Shop Nimble Daily]
 Stay strong,
 The Nimble Team
 
-</details>
-
 ---
 
-<details>
-<summary><h2>📨 Marketing Campaign Emails</h2></summary>
+## 📨 Marketing Campaign Emails
 
-## Post-Launch Campaign Series
+### Post-Launch Campaign Series
 
 ### Welcome Series (5 emails over 14 days)
 
@@ -425,8 +421,6 @@ The Nimble Team
 - Special offer to return (discount or bonus)
 - No guilt, just information and opportunity
 - Easy unsubscribe if not interested
-
-</details>
 
 ---
 

@@ -217,16 +217,6 @@ This is designed for lifelong use as part of your health maintenance routine.
 
 ## Purchasing & Subscription
 
-### How much does it cost?
-Nimble Daily is priced at $89-99 per month (subscription pricing available). While this may seem high compared to basic proteins, consider:
-- Replaces 4 separate supplements
-- Clinical doses (not pixie-dusted)
-- Premium grass-fed ingredients
-- Third-party testing costs
-- Research-based formulation
-
-You're investing in pharmaceutical-grade nutrition, not a commodity powder.
-
 ### Do you offer subscriptions?
 Yes! Subscription benefits include:
 - 15% discount on all orders
@@ -239,27 +229,22 @@ Yes! Subscription benefits include:
 ### What's your return policy?
 30-day money-back guarantee. If you're not satisfied:
 - Full refund (minus shipping)
-- No need to return the product
 - No questions asked
-- Simply email support@nimblenutrition.com
+- Simply email support@nimbledaily.com
 
 We want you to try it risk-free and experience the benefits.
 
 ### Do you ship internationally?
 Currently shipping to:
 - United States (all 50 states)
-- Canada
-- United Kingdom
-- Australia
 
 International expansion coming soon. Join our waitlist for updates.
 
 ### How is it packaged?
-- 30-serving container (1-month supply)
+- 15-serving container (2 week supply)
 - Recyclable container with moisture barrier
 - Includes measuring scoop
 - Sealed for freshness
-- Minimal, professional packaging (no flashy graphics)
 
 ---
 
@@ -290,7 +275,6 @@ We earn trust through:
 - **No proprietary blends**: Nothing hidden
 - **Evidence-based**: All claims backed by research
 - **Third-party tested**: Independent verification
-- **Founder story**: Created from personal need, not market opportunity
 - **Honest marketing**: No miracle claims or false promises
 
 ### How are you different from other brands?
@@ -367,7 +351,7 @@ Most adjustment issues resolve within a week.
 ## Still Have Questions?
 
 We're here to help:
-- Email: support@nimblenutrition.com
+- Email: support@nimbledaily.com
 - Response time: Within 24 hours
 - Live chat: Available on website Mon-Fri 9am-5pm EST
 - Join our community for peer support and tips
