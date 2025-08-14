@@ -17,6 +17,7 @@
     *   [Social Content Bank](socialcontent.md)
 
 *   **Strategy**
+    *   [Product Roadmap](ProductRoadmap.md)
     *   [Competitive Analysis](competitor_comp.md)
     *   [PDP Competitor Analysis](pdp_competitor_analysis.md)
 
