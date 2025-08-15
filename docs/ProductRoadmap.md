@@ -13,7 +13,9 @@ Nimble becomes the **single trusted source** for high-achieving women navigating
 
 | Product | Category | Price Point | Target Launch | Primary Benefit |
 |---------|----------|-------------|---------------|-----------------|
-| **Nimble Daily (All Types)** | Powder | $85 OTP / $68 Sub | Current | 4-in-1 foundation nutrition |
+| **Nimble Daily (Beef)** | Powder | $85 OTP / $68 Sub | Current | 4-in-1 grass-fed beef protein |
+| **Nimble Daily (Whey)** | Powder | $85 OTP / $68 Sub | Q2 Year 1 | 4-in-1 whey isolate protein |
+| **Nimble Daily (Plant)** | Powder | $85 OTP / $68 Sub | Q3 Year 1 | 4-in-1 plant-based protein |
 | **Nimble Night** | Powder | $79/month | Q2 Year 1 | Recovery & hormone support |
 | **Nimble Focus** | Capsules | $49/month | Q3 Year 1 | Cognitive performance |
 | **Nimble Joint** | Capsules | $59/month | Q1 Year 2 | Joint health & mobility |
@@ -31,22 +33,54 @@ Nimble becomes the **single trusted source** for high-achieving women navigating
 
 ## Phase 1: Core Foundation (Current - Year 1)
 
-### Nimble Daily (Current Flagship)
+### Nimble Daily - Grass-Fed Beef (Current Flagship)
 - **Price:** 
-  - One-time purchase (15 servings): $85 (all protein types)
+  - One-time purchase (15 servings): $85
   - Sub & Save (15 servings): $68/month (20% off)
   - Sub & Save (30 servings/2 bags): $119/month (30% off)
 - **Format:** Powder
 - **Status:** Market-ready
 - **Flavors:** Dutch Cocoa (current), Vanilla Cinnamon (Q2), Unflavored (Q3)
-- **Protein Options:** Grass-fed beef, Grass-fed whey isolate, Plant-based blend
+- **Protein Source:** Grass-fed beef protein isolate (HydroBEEF™)
 - **Target:** Foundation for all personas
 
 **Why This Product:**
 - Consolidates 4 separate purchases into one efficient solution
 - Addresses the #1 complaint: "too many supplements to manage"
 - Clinical-dose creatine is a massive differentiator (no competitor has this)
-- Multiple protein options capture wider market without diluting brand
+- Beef protein is highly bioavailable and dairy-free
+
+### Nimble Daily - Grass-Fed Whey (Q2 Year 1)
+- **Price:** 
+  - One-time purchase (15 servings): $85
+  - Sub & Save (15 servings): $68/month (20% off)
+  - Sub & Save (30 servings/2 bags): $119/month (30% off)
+- **Format:** Powder
+- **Flavors:** Dutch Cocoa, Vanilla Cinnamon, Unflavored
+- **Protein Source:** Grass-fed whey protein isolate
+- **Target:** Customers who prefer traditional whey protein
+
+**Why This Product:**
+- Whey is the gold standard for muscle protein synthesis
+- Many customers specifically seek whey for its complete amino acid profile
+- Same price as beef version removes decision friction
+- Appeals to fitness-focused segment of audience
+
+### Nimble Daily - Plant-Based (Q3 Year 1)
+- **Price:** 
+  - One-time purchase (15 servings): $85
+  - Sub & Save (15 servings): $68/month (20% off)
+  - Sub & Save (30 servings/2 bags): $119/month (30% off)
+- **Format:** Powder
+- **Flavors:** Dutch Cocoa, Vanilla Cinnamon, Unflavored
+- **Protein Source:** Pea, hemp, and pumpkin seed protein blend
+- **Target:** Vegetarian/vegan customers, those with dairy sensitivities
+
+**Why This Product:**
+- Captures the 12% of women 40+ who follow plant-based diets
+- Addresses dairy and meat sensitivities common in perimenopause
+- Same pricing strategy maintains brand premium positioning
+- First plant protein with creatine on the market
 
 ### Nimble Night
 - **Price:** $79/month
