@@ -13,9 +13,7 @@ Nimble becomes the **single trusted source** for high-achieving women navigating
 
 | Product | Category | Price Point | Target Launch | Primary Benefit |
 |---------|----------|-------------|---------------|-----------------|
-| **Nimble Daily (Beef)** | Powder | $89/month | Current | 4-in-1 foundation nutrition |
-| **Nimble Daily (Whey)** | Powder | $79/month | Q2 Year 1 | 4-in-1 with whey protein |
-| **Nimble Daily (Plant)** | Powder | $69/month | Q3 Year 1 | 4-in-1 plant-based option |
+| **Nimble Daily (All Types)** | Powder | $85 OTP / $68 Sub | Current | 4-in-1 foundation nutrition |
 | **Nimble Night** | Powder | $79/month | Q2 Year 1 | Recovery & hormone support |
 | **Nimble Focus** | Capsules | $49/month | Q3 Year 1 | Cognitive performance |
 | **Nimble Joint** | Capsules | $59/month | Q1 Year 2 | Joint health & mobility |
@@ -34,10 +32,14 @@ Nimble becomes the **single trusted source** for high-achieving women navigating
 ## Phase 1: Core Foundation (Current - Year 1)
 
 ### Nimble Daily (Current Flagship)
-- **Price:** $89/month (beef), $79/month (whey), $69/month (plant)
+- **Price:** 
+  - One-time purchase (15 servings): $85 (all protein types)
+  - Sub & Save (15 servings): $68/month (20% off)
+  - Sub & Save (30 servings/2 bags): $119/month (30% off)
 - **Format:** Powder
 - **Status:** Market-ready
 - **Flavors:** Dutch Cocoa (current), Vanilla Cinnamon (Q2), Unflavored (Q3)
+- **Protein Options:** Grass-fed beef, Grass-fed whey isolate, Plant-based blend
 - **Target:** Foundation for all personas
 
 **Why This Product:**
@@ -244,8 +246,8 @@ Nimble becomes the **single trusted source** for high-achieving women navigating
 
 | Tier | Products/Services | Monthly Value | % of Customers |
 |------|------------------|---------------|----------------|
-| **Essential** | Daily (choice of protein) + 1 targeted product | $108-148 | 60% |
-| **Performance** | Daily + Night + 2-3 products + app | $200-250 | 30% |
+| **Essential** | Daily Sub & Save + 1 targeted product | $107-127 | 60% |
+| **Performance** | Daily (2 bags) + Night + 2 products + app | $227-277 | 30% |
 | **Premium** | Concierge + full product suite | $500+ | 10% |
 
 ### Growth Targets

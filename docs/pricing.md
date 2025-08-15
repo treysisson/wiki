@@ -1,4 +1,4 @@
 Offer                       Price	Discount
-OTP (one time purchase - 15 servings)	    $74.99	0%
-Sub n Save (15 servings)	$58.49	22%
-Sub n Save (30 servings)	$98.99	34%
+OTP (one time purchase - 15 servings)	    $85.00	0%
+Sub & Save (15 servings)	$68.00	20%
+Sub & Save (30 servings - 2 bags)	$119.00	30%
