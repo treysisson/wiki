@@ -155,28 +155,41 @@ Every Ingredient. Every Dose. No Secrets.
 **HEADLINE:**
 Choose Your Commitment Level
 
-**Product Options (Side by Side):**
+**Product Options (Three Cards):**
 
 **ONE-TIME PURCHASE**
-$79
-- 30 servings (1 month supply)
+$85
+**15 servings** (2 weeks supply)
+- $5.67 per serving
 - Free shipping over $100
 - 30-day guarantee
 
 [Add to Cart]
 
 **SUBSCRIBE & SAVE**
-$67 (Save 15%)
-- Delivered monthly
+$68 (Save 20%)
+**15 servings** delivered monthly
+- **$4.53 per serving**
 - Skip or cancel anytime
 - Free shipping always
 - 30-day guarantee
-- Exclusive subscriber perks
 
-[Subscribe Now] *Most Popular*
+[Subscribe - 1 Bag] *Smart Choice*
 
-**Bundle Benefits:**
-Order 3+ months and save 20% plus free shipping
+**BEST VALUE - SUBSCRIBE & SAVE**
+$119 (Save 30%)
+**30 servings** (2 bags) delivered monthly
+- **$3.97 per serving**
+- Maximum savings
+- Skip or cancel anytime
+- Free shipping always
+- Priority support
+
+[Subscribe - 2 Bags] *Most Popular*
+
+**Savings Breakdown:**
+💰 Save $17/month with 1-bag subscription
+💰 Save $51/month with 2-bag subscription
 
 ---
 
