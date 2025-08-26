@@ -1,31 +1,33 @@
 <!-- docs/_sidebar.md -->
 
-*   **Brand & Product**
+*   **Foundation**
     *   [Company Mission](company.md)
-    *   [Product Details](product.md)
     *   [Brand Analysis](BrandAnalysis.md)
-    *   [Clinical Evidence](clinical.md)
-    *   [Quality & Compliance](quality.md)
     *   [Tone of Voice](toneofvoice.md)
 
-*   **Content Strategy**
-    *   [Marketing Hooks](hooks.md)
-    *   [Target Consumer](consumer.md)
-    *   [Video Scripts](VideoScripts.md)
-    *   [Email Plan](emailplan.md)
-    *   [FAQs](faqs.md)
-    *   [Social Content Bank](socialcontent.md)
-    *   [Meta Testing Framework](metatesting.md)
-
-*   **Product Strategy**
+*   **Product**
+    *   [Product Details](product.md)
+    *   [Clinical Evidence](clinical.md)
+    *   [Quality & Compliance](quality.md)
     *   [Product Roadmap](ProductRoadmap.md)
+
+*   **Market Research**
+    *   [Target Consumer](consumer.md)
     *   [Competitive Analysis](competitor_comp.md)
     *   [PDP Competitor Analysis](pdp_competitor_analysis.md)
 
+*   **Content Strategy**
+    *   [Meta Testing Framework](metatesting.md)
+    *   [Marketing Hooks](hooks.md)
+    *   [Video Scripts](VideoScripts.md)
+    *   [Email Plan](emailplan.md)
+    *   [Social Content Bank](socialcontent.md)
+    *   [FAQs](faqs.md)
+
 *   **Website**
     *   [Homepage](homepage.md)
-    *   [About](about.md)
     *   [Product Detail Page](pdp.md)
+    *   [About](about.md)
 
 *   **Reference**
     *   [Source Inspiration (nimbledaily)](nimbledaily.md) 
