@@ -25,8 +25,8 @@
     *   [FAQs](faqs.md)
 
 *   **Website**
-    *   [Homepage](homepage.md)
-    *   [Product Detail Page](pdp.md)
+    *   [Homepage (Product Landing)](homepage.md)
+    *   [Science](science.md)
     *   [About](about.md)
 
 *   **Reference**
