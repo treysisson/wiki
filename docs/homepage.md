@@ -1,108 +1,268 @@
-# Website Content: Homepage
+# Website Content: Homepage (Single-Page Product Landing)
 
 ---
 
 ## [HERO SECTION]
 
-**(Image: A vibrant, strong woman in her 40s or 50s, mid-motion—maybe finishing a hike, laughing in a yoga class, or confidently leading a meeting. She looks capable and full of life.)**
+**(Image: A vibrant, strong woman in her mid-40s in athletic wear, mid-stretch after a morning run, with natural morning light. She looks powerful, focused, and in control.)**
 
 **HEADLINE:**
-Your Ambition Isn't Slowing Down. Why Should Your Body?
+Your Body Isn't Giving Up. It's Asking for Better Support.
 
 **SUB-HEADLINE:**
-The only 4-in-1 daily nutrition formula designed to support the muscle, joint, and bone health of women in their most powerful years. Stay strong. Stay resilient. Stay Nimble.
+The only protein powder with clinical-dose creatine designed specifically for women navigating hormonal changes. One daily scoop for muscle strength, joint resilience, and bone density.
 
 **CALL TO ACTION (Button):**
-[Discover the Formula] -> (Links to PDP)
+[Get Started] -> (Scrolls to product section)
+
+**Trust Indicators:**
+✓ Third-Party Tested  ✓ Science-Backed Doses  ✓ 30-Day Guarantee
 
 ---
 
-## [PROBLEM SECTION - AS SEEN ON]
-
-**(Logos of credible, but not overly corporate, sources e.g., Forbes, Women's Health, a well-known wellness podcast logo)**
+## [PROBLEM AGITATION SECTION]
 
 **HEADLINE:**
-You're Not Imagining It. Your Body Is Changing.
+The Changes You're Feeling Are Real. And They're Accelerating.
+
+**Three Column Layout:**
+
+**Column 1: The Physical Reality**
+- Morning stiffness that wasn't there before
+- Three-day recovery from workouts that used to take one
+- Strength declining despite consistent training
+
+**Column 2: The Science Behind It**
+- 10-15% muscle loss per decade after 30
+- Collagen production drops 1% yearly
+- Bone density decreases 1-2% annually post-menopause
+
+**Column 3: The Typical "Solutions"**
+- Five different supplement bottles
+- Products designed for 25-year-old gym bros
+- "Anti-aging" miracles with zero evidence
+
+**Bottom Text:**
+You don't need another handful of pills or magical promises. You need targeted nutrition that respects your intelligence and your time.
+
+---
+
+## [UNIQUE MECHANISM SECTION]
+
+**(Visual: Clean infographic showing 4 ingredients coming together into one scoop)**
+
+**HEADLINE:**
+Four Clinically-Proven Ingredients. One Daily Investment.
+
+**The Nimble Daily Formula:**
+
+**26g Grass-Fed Beef Protein**
+Maintains and builds lean muscle without dairy bloat
+
+**3g Creatine Monohydrate**
+The only protein powder with a clinical dose for strength and cognitive function
+
+**10g Collagen Peptides**
+Types I & III for joint mobility and tendon resilience
+
+**Essential Micronutrients**
+Vitamin D3, K2, Magnesium, and more—specifically dosed for women 40+
+
+**Differentiator Box:**
+*"This isn't a protein shake with sprinkled extras. Every ingredient is dosed at research-proven levels. No pixie dusting. No proprietary blends. Just transparency."*
+
+---
+
+## [BENEFITS SECTION]
+
+**HEADLINE:**
+Feel the Difference in Weeks. Build Strength for Decades.
+
+**Three Benefit Cards:**
+
+**IMMEDIATE (Weeks 1-4)**
+- Reduced post-workout soreness
+- Better energy throughout the day
+- No more supplement cabinet chaos
+
+**SHORT-TERM (Months 1-3)**
+- Noticeable strength improvements
+- Faster recovery between activities
+- Joint comfort during movement
+
+**LONG-TERM (Year 1+)**
+- Maintained muscle mass
+- Protected bone density
+- Sustained independence and capability
+
+---
+
+## [SOCIAL PROOF SECTION]
+
+**HEADLINE:**
+Join Women Who Are Redefining Their Prime Years
+
+**Testimonial Carousel:**
+
+**Sarah M., 52 - Executive**
+*"I was skeptical of another powder, but the creatine inclusion sold me. Six weeks in, I'm keeping up with my trainer who's half my age."*
+⭐⭐⭐⭐⭐
+
+**Dr. Jennifer K., 46 - Orthopedic Surgeon**
+*"As a doctor, I appreciate the transparency. As a woman dealing with perimenopause, I appreciate the results. My recovery time has been cut in half."*
+⭐⭐⭐⭐⭐
+
+**Maria L., 49 - Entrepreneur & Mother**
+*"Finally, a brand that doesn't talk down to me or promise miracles. Just solid science and real results. My joint pain is gone."*
+⭐⭐⭐⭐⭐
+
+**Stats Bar:**
+- 87% report better recovery within 30 days
+- 92% replace multiple supplements with Nimble
+- 4.8/5 average rating from 500+ customers
+
+---
+
+## [INGREDIENT TRANSPARENCY SECTION]
+
+**HEADLINE:**
+Every Ingredient. Every Dose. No Secrets.
+
+**(Interactive ingredient list - click to expand research)**
+
+**What's In It:**
+- Every ingredient with exact mg amounts
+- Links to peer-reviewed research
+- Explanation of why each dose was chosen
+
+**What's NOT In It:**
+❌ No proprietary blends
+❌ No "natural flavors"
+❌ No artificial sweeteners
+❌ No fillers or flow agents
+❌ No dairy, soy, or gluten
+
+**Quality Standards:**
+- Third-party tested for heavy metals
+- Made in GMP-certified facility
+- Grass-fed, pasture-raised sources
+- Every batch verified
+
+---
+
+## [PRODUCT PURCHASE SECTION]
+
+**HEADLINE:**
+Choose Your Commitment Level
+
+**Product Options (Side by Side):**
+
+**ONE-TIME PURCHASE**
+$79
+- 30 servings (1 month supply)
+- Free shipping over $100
+- 30-day guarantee
+
+[Add to Cart]
+
+**SUBSCRIBE & SAVE**
+$67 (Save 15%)
+- Delivered monthly
+- Skip or cancel anytime
+- Free shipping always
+- 30-day guarantee
+- Exclusive subscriber perks
+
+[Subscribe Now] *Most Popular*
+
+**Bundle Benefits:**
+Order 3+ months and save 20% plus free shipping
+
+---
+
+## [OBJECTION HANDLING FAQ]
+
+**HEADLINE:**
+Let's Address the Elephant in the Room
+
+**"Isn't creatine for bodybuilders?"**
+No. Creatine is the most studied supplement after protein, with specific benefits for women including improved bone density, cognitive function, and muscle maintenance—without any "bulking."
+
+**"How does it taste?"**
+Like cinnamon cocoa—not overly sweet. This isn't a milkshake; it's functional nutrition that happens to taste good. Mix with water, milk alternative, or blend in your smoothie.
+
+**"Will I see results at my age?"**
+Especially at your age. The research shows women 40+ have the most to gain from targeted protein and creatine supplementation. Your body's needs have changed—your nutrition should too.
+
+**"What if it doesn't work for me?"**
+We offer a 30-day money-back guarantee. But more importantly, every ingredient is backed by peer-reviewed research at clinical doses. This isn't hope in a bottle—it's science.
+
+---
+
+## [URGENCY/SCARCITY SECTION]
+
+**HEADLINE:**
+Your Future Self Will Thank You for Starting Today
+
+**Limited-Time Offer Box:**
+🎯 **New Customer Special:** Save 20% on your first order with code STRONG20
+*Offer ends in [countdown timer]*
+
+**Why Start Now:**
+- Every day without adequate protein = more muscle loss
+- The earlier you build your "strength reserve," the better
+- Join 500+ women who've already made the switch
+
+---
+
+## [FOUNDER'S NOTE SECTION]
+
+**HEADLINE:**
+A Note from Our Founder
+
+**(Image: Professional photo of female founder, age 48)**
+
+*"I created Nimble after watching my mother lose her independence to preventable muscle and bone loss. Despite being a successful executive, she hadn't been given the tools to maintain her physical strength.*
+
+*At 45, I realized I was on the same path—strong career, declining body. The supplement industry offered me either bodybuilding products or anti-aging fairy dust. Neither respected my intelligence or addressed my actual needs.*
+
+*Nimble is different because it's built on evidence, not hope. It's for women who lead, who refuse to slow down, and who understand that strength is an investment, not vanity."*
+
+— **Katherine Chen**, Founder & CEO
+
+---
+
+## [FINAL CTA SECTION]
+
+**HEADLINE:**
+Stop Accepting Decline as Inevitable
 
 **BODY COPY:**
-You're leading teams, raising families, and managing a thousand demands. You feel sharp, capable, and more in your prime than ever. And yet, you notice a shift. Muscle is harder to maintain, joints ache after a workout that used to be easy, and recovery takes longer.
+You've spent decades building your career, your family, your life. Now it's time to build your physical foundation for the decades ahead.
 
-This isn't a sign to slow down. It's a sign that your body requires a new level of targeted support.
+**CALL TO ACTION (Large Button):**
+[Start Your Nimble Journey] -> (Scrolls back to product section)
 
--   **1 in 3 women over 50** will experience an osteoporosis-related fracture.
--   Muscle loss can begin as early as **age 30**, accelerating each decade.
--   Nearly **1 in 2 adults** experience joint degeneration.
+**Guarantee Badge:**
+30-Day Money-Back Guarantee | No Questions Asked
 
-It's time for a new tool. One built for you.
-
----
-
-## [SOLUTION SECTION]
-
-**(Image: A clean, elegant shot of the Nimble product packaging next to a glass.)**
-
-**HEADLINE:**
-The Support You Need. In One Simple Scoop.
-
-**BODY COPY:**
-Stop juggling multiple pills and powders. Nimble Daily is the first-of-its-kind formula that combines four essential, clinically-backed nutritional powerhouses in one simple, daily mix.
-
-We spent months working with PhDs, RDs, and clinicians to create a single tool that works as hard as you do, designed to:
-
-1.  **Strengthen & Maintain Lean Muscle**
-2.  **Protect & Support Joint Mobility**
-3.  **Reinforce Bone Density & Structure**
-4.  **Boost Energy & Accelerate Recovery**
-
-**CALL TO ACTION (Button):**
-[See the Science] -> (Links to PDP Ingredients Section)
+**Support Links:**
+Questions? Email us at hello@nimbledaily.com or check our [Science Page](/science)
 
 ---
 
-## [BENEFITS/DIFFERENTIATOR SECTION]
+## [FOOTER]
 
-**HEADLINE:**
-There Is No Comparison. Literally.
+**Quick Links:**
+- Science & Research
+- About Us
+- Customer Reviews
+- FAQs
+- Contact
 
-**(Visual: A simple, clean comparison chart showing Nimble vs. "Standard Protein" and "Collagen Powder," with checkmarks for Nimble on "4-in-1 Formula," "Creatine for Strength," "Beef Protein Isolate," "No Artificial Ingredients," etc.)**
+**Newsletter Signup:**
+"Get evidence-based health insights for women 40+ (no fluff, ever)"
+[Email field] [Subscribe]
 
-**SUB-HEADLINE:** Why Nimble is the new standard:
-
--   **4-in-1 Efficacy:** A complete formula for muscle, joints, and bones.
--   **Clinically-Effective Doses:** Ingredients at levels that are proven to work.
--   **Radical Transparency:** No secret formulas, no "natural flavors," no junk. Ever.
--   **Designed for Women:** Meticulously formulated for your unique physiology.
-
----
-
-## [TESTIMONIAL/SOCIAL PROOF SECTION]
-
-**(Images: Authentic photos of 3 different women who fit the "Resilient Leader" persona.)**
-
-**HEADLINE:**
-For Women Who Refuse to Be Sidelined.
-
-**TESTIMONIAL 1:**
-"I finally feel like my body can keep up with my life. After a month of Nimble, the chronic ache in my knees is gone, and I feel stronger in my workouts. It's a non-negotiable part of my morning now."
-— **Dr. Elena R., 48, Surgeon & Mother of Two**
-
-**TESTIMONIAL 2:**
-"As an entrepreneur, I don't have time for complicated routines. Nimble is the simple, effective solution I've been searching for. I trust the ingredients, and I feel the difference in my energy and recovery."
-— **Maria K., 52, Founder & CEO**
-
-**TESTIMONIAL 3:**
-"I was skeptical of protein powders—they always felt like they were for someone else. Nimble is different. It's clean, easy on my gut, and I know I'm making a smart investment in my long-term health and strength."
-— **Sarah L., 45, Lawyer & Avid Hiker**
-
----
-
-## [FINAL CALL TO ACTION SECTION]
-
-**HEADLINE:**
-Your Next Decade Can Be Your Strongest Yet.
-
-**BODY COPY:**
-Invest in your future self. Provide your body with the clean, effective, and targeted nutrition it needs to stay in the game, for life.
-
-**CALL TO ACTION (Button):**
-[Shop Nimble Daily] -> (Links to PDP)
+**Social Proof Bar:**
+"Join 5,000+ women staying strong with Nimble Daily"
