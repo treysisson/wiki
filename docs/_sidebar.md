@@ -15,8 +15,9 @@
     *   [Email Plan](emailplan.md)
     *   [FAQs](faqs.md)
     *   [Social Content Bank](socialcontent.md)
+    *   [Meta Testing Framework](metatesting.md)
 
-*   **Strategy**
+*   **Product Strategy**
     *   [Product Roadmap](ProductRoadmap.md)
     *   [Competitive Analysis](competitor_comp.md)
     *   [PDP Competitor Analysis](pdp_competitor_analysis.md)
