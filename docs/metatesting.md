@@ -19,10 +19,10 @@ Test 6 core value propositions for women 38-58:
   - Science-backed, not Instagram-backed
   - 30 seconds to complete nutrition
 
-**• Beat The Clock**
-  - Combat menopause-accelerated muscle loss
-  - 3g creatine specifically for hormonal changes
-  - Protect bones during the critical window
+**• Support Your GLP-1 Journey**
+  - Maintain muscle while losing weight on GLP-1s
+  - High-quality protein to prevent muscle wasting
+  - Essential nutrients often missed during rapid weight loss
 
 **• Recover Like You're 30**
   - Bounce back faster from workouts
@@ -122,7 +122,7 @@ Since we can't achieve 50 conversions/week with this budget, we'll optimize for 
 - **3 Ad Sets:** Top 3 value props only
   - Maintain Your Edge
   - Protect Your Future  
-  - Beat The Clock (menopause angle)
+  - Support Your GLP-1 Journey (GLP-1 users)
 - **Budget per ad set:** ~$95/day
 - **9 Ads Total:** 3 creatives × 3 messages
   - Test visual styles simultaneously with messages
