@@ -4,6 +4,11 @@
 
 Test 6 core value propositions for women 38-58:
 
+**• Support Your GLP-1 Journey**
+  - Maintain muscle while losing weight on GLP-1s
+  - High-quality protein to prevent muscle wasting
+  - Essential nutrients often missed during rapid weight loss
+
 **• Maintain Your Edge**
   - Stay physically capable as you lead
   - Match your body's strength to your mental drive
@@ -18,11 +23,6 @@ Test 6 core value propositions for women 38-58:
   - One daily solution, not 5 bottles
   - Science-backed, not Instagram-backed
   - 30 seconds to complete nutrition
-
-**• Support Your GLP-1 Journey**
-  - Maintain muscle while losing weight on GLP-1s
-  - High-quality protein to prevent muscle wasting
-  - Essential nutrients often missed during rapid weight loss
 
 **• Recover Like You're 30**
   - Bounce back faster from workouts
@@ -120,9 +120,9 @@ Since we can't achieve 50 conversions/week with this budget, we'll optimize for 
 **Campaign Structure:**
 - **1 Campaign:** "Nimble_Foundation_Jan25" (CBO enabled)
 - **3 Ad Sets:** Top 3 value props only
-  - Maintain Your Edge
-  - Protect Your Future  
   - Support Your GLP-1 Journey (GLP-1 users)
+  - Maintain Your Edge
+  - Protect Your Future
 - **Budget per ad set:** ~$95/day
 - **9 Ads Total:** 3 creatives × 3 messages
   - Test visual styles simultaneously with messages
